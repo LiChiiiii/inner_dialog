@@ -1,0 +1,630 @@
+- Market research: Understand target audience, competition, and demand
+- Business plan: Outline goals, strategies, and financial projections
+- Financial resources: Determine startup costs, funding options
+- Legal requirements: Research licenses, permits, and registration
+- Unique selling proposition: Identify what sets business apart
+- Team and skills: Assess needed expertise and consider hiring
+- Marketing and sales strategy: Develop plan to reach target audience
+- Operations and logistics: Determine day-to-day operations and needed resources
+- Risk assessment: Identify potential risks and develop contingency plans
+- Work-life balance: Consider impact on personal life and resources for managing both.
+---------------
+- Stay updated on industry trends
+- Build a network and seek mentorship
+- Evaluate scalability and growth potential
+- Gather customer feedback
+- Ensure personal commitment and passion
+- Consider workforce and HR considerations
+- Utilize technology and establish a digital presence
+- Develop customer acquisition and retention strategies
+- Assess long-term sustainability
+- Have an exit strategy in mind
+---------------
+- Identify your competitive advantage
+- Develop a pricing strategy
+- Consider intellectual property protection
+- Assess insurance coverage needs
+- Prioritize tasks and manage time effectively
+- Plan for excellent customer service and feedback
+- Commit to continuous learning and improvement
+- Prepare for emotional and mental challenges
+- Understand compliance and regulations
+- Be flexible and adaptable in business approach
+---------------
+
+{'Business Planning': {'Market research': None, 'Business plan': None, 'Financial resources': None}, 'Legal Requirements': {'Licenses, permits, and registration': None}, 'Differentiation and Marketing': {'Unique selling proposition': None, 'Marketing and sales strategy': None}, 'Operations and Logistics': {'Team and skills': None, 'Operations and logistics': None}, 'Risk Assessment': {'Risk assessment': None}, 'Work-Life Balance': {'Work-life balance': None}, 'Industry Trends and Growth': {'Stay updated on industry trends': None, 'Evaluate scalability and growth potential': None}, 'Customer Feedback and Service': {'Gather customer feedback': None}, 'Personal Commitment and Improvement': {'Ensure personal commitment and passion': None, 'Commit to continuous learning and improvement': None}, 'Technology and Digital Presence': {'Utilize technology and establish a digital presence': None}, 'Customer Acquisition and Retention': {'Develop customer acquisition and retention strategies': None}, 'Long-Term Sustainability and Exit Strategy': {'Assess long-term sustainability': None, 'Have an exit strategy in mind': None}, 'Competitive Advantage and Pricing': {'Identify competitive advantage': None, 'Develop pricing strategy': None}, 'Intellectual Property and Insurance': {'Consider intellectual property protection': None, 'Assess insurance coverage needs': None}, 'Time Management and Task Prioritization': {'Prioritize tasks and manage time effectively': None}, 'Customer Service and Feedback': {'Plan for excellent customer service and feedback': None}, 'Emotional and Mental Challenges': {'Prepare for emotional and mental challenges': None}, 'Compliance and Regulations': {'Understand compliance and regulations': None}, 'Flexibility and Adaptability': {'Be flexible and adaptable in business approach': None}}
+num of ref paths: 43
+num of pred paths: 28
+(ref_path, most_similar_pred_path, score)
+(qq starting a business seek support from family and friends, qq Business Planning Business plan, 0.6067099571228027)
+(qq starting a business assess and minimize financial risks, qq Business Planning Financial resources, 0.7706280946731567)
+(qq starting a business create a business plan and vision, qq Business Planning Business plan, 0.861014187335968)
+(qq starting a business understand your target customer and their problems, qq Customer Service and Feedback Plan for excellent customer service and feedback, 0.7153924703598022)
+(qq starting a business understand yourself and your strengths, qq Business Planning Financial resources, 0.6101720929145813)
+(qq starting a business validate demand before building your product, qq Business Planning Business plan, 0.6055102348327637)
+(qq starting a business find a mentor for guidance and support, qq Business Planning Financial resources, 0.6089255809783936)
+(qq starting a business connect with other founders for networking and learning opportunities, qq Business Planning Market research, 0.5374252796173096)
+(qq starting a business embrace patience, perseverance, and the right mindset, qq Personal Commitment and Improvement Ensure personal commitment and passion, 0.6220787167549133)
+(qq starting a business remember to have fun and prioritize building relationships, qq Business Planning Business plan, 0.6383033990859985)
+(qq building a business develop a powerful message and value proposition for your business, qq Business Planning Business plan, 0.6954120993614197)
+(qq building a business understand your target market and their buying habits, qq Business Planning Market research, 0.7362869381904602)
+(qq building a business start small and self-fund your business idea before seeking funding, qq Business Planning Financial resources, 0.5943586826324463)
+(qq building a business know your own strengths, skills, and available time, qq Business Planning Market research, 0.6389688849449158)
+(qq building a business surround yourself with advisors and mentors for guidance and support, qq Business Planning Financial resources, 0.6506024599075317)
+(qq building a business write a business plan to stay on track and set goals, qq Business Planning Business plan, 0.8414267301559448)
+(qq building a business have a good grasp on the numbers and financial aspects of your business, qq Business Planning Financial resources, 0.7687379121780396)
+(qq building a business understand that success requires hard work and there are no entitlements, qq Work-Life Balance Work-life balance, 0.6246017217636108)
+(qq building a business have a passion for what you are doing to stay motivated, qq Personal Commitment and Improvement Ensure personal commitment and passion, 0.6316841244697571)
+(qq building a business seek additional support and resources when needed, such as online marketing tools and mentors, qq Business Planning Financial resources, 0.6298851370811462)
+(qq key factors for business success having a great business idea, qq Business Planning Market research, 0.699581503868103)
+(qq key factors for business success passion for your business idea, qq Personal Commitment and Improvement Ensure personal commitment and passion, 0.6598688364028931)
+(qq key factors for business success knowing your target market, qq Business Planning Market research, 0.7321828007698059)
+(qq key factors for business success a business plan, qq Business Planning Business plan, 0.8265893459320068)
+(qq key factors for business success choosing the right business model, qq Business Planning Market research, 0.6904411911964417)
+(qq key factors for business success budgeting and finance, qq Business Planning Financial resources, 0.7391279935836792)
+(qq key factors for business success managing overhead expenses, qq Business Planning Financial resources, 0.668258547782898)
+(qq key factors for business success completing legal documentation and ensuring compliance, qq Compliance and Regulations Understand compliance and regulations, 0.7073811292648315)
+(qq key factors for business success investing in the right equipment, qq Industry Trends and Growth Evaluate scalability and growth potential, 0.6513183116912842)
+(qq key factors for business success seeking guidance from mentors or experts, qq Business Planning Financial resources, 0.5865009427070618)
+(qq key factors for business success building a team with complementary skills and a shared vision, qq Operations and Logistics Team and skills, 0.6541546583175659)
+(qq steps to start a business identify a creative business idea, qq Business Planning Business plan, 0.6748091578483582)
+(qq steps to start a business write a comprehensive business plan, qq Business Planning Business plan, 0.868133544921875)
+(qq steps to start a business choose the appropriate legal structure, qq Legal Requirements Licenses, permits, and registration, 0.6838796138763428)
+(qq steps to start a business register the business and obtain necessary licenses and tax identification, qq Legal Requirements Licenses, permits, and registration, 0.7151522040367126)
+(qq steps to start a business research and understand the competition and marketplace, qq Business Planning Market research, 0.749160647392273)
+(qq steps to start a business secure financing for the business, qq Business Planning Financial resources, 0.6757915616035461)
+(qq steps to start a business identify and secure a suitable location, qq Business Planning Business plan, 0.6322140097618103)
+(qq steps to start a business obtain the necessary insurance coverage, qq Intellectual Property and Insurance Assess insurance coverage needs, 0.7399884462356567)
+(qq steps to start a business seek legal counsel for compliance and protection, qq Compliance and Regulations Understand compliance and regulations, 0.669379472732544)
+(qq steps to start a business establish a strong online presence, qq Technology and Digital Presence Utilize technology and establish a digital presence, 0.7285453081130981)
+(qq steps to start a business utilize local and national business resources, qq Business Planning Financial resources, 0.6683513522148132)
+(qq steps to start a business develop a strategic marketing plan, qq Business Planning Business plan, 0.7732341289520264)
+path coverage score: 0.6879574282224789
+- Factors to consider when choosing a career:
+  - Personal interests and passions
+  - Skills and abilities
+  - Job market and demand
+  - Work-life balance
+  - Values and purpose
+  - Financial considerations
+  - Work environment and culture
+  - Long-term goals and opportunities
+---------------
+- Job satisfaction and fulfillment: Consider work environment, tasks, and responsibilities that bring joy and purpose.
+- Work-life integration: Think about flexibility and balance between personal and professional life.
+- Networking and connections: Research opportunities to build a strong professional network.
+- Personal growth and development: Look for chances to learn new skills and advance in your field.
+- Job security and stability: Evaluate industry trends and economic factors impacting demand for your skills.
+- Work-life values alignment: Assess if the work aligns with your personal values and allows you to contribute to causes important to you.
+- Personal circumstances: Consider family responsibilities, financial obligations, and geographic location.
+---------------
+- Job outlook and future trends: Research the future prospects and potential growth of your desired career field.
+- Education and training requirements: Evaluate the necessary qualifications and additional training needed for your chosen career.
+- Transferable skills: Assess the skills you possess that can be applied to different careers.
+- Personal risk tolerance: Consider your comfort level with taking risks in your career.
+- Mentorship and guidance: Seek advice and support from professionals in your desired field.
+---------------
+
+{'Factors to consider when choosing a career': {'Personal interests and passions': None, 'Skills and abilities': None, 'Job market and demand': None, 'Work-life balance': None, 'Values and purpose': None, 'Financial considerations': None, 'Work environment and culture': None, 'Long-term goals and opportunities': None}, 'Job satisfaction and fulfillment': {'Work environment, tasks, and responsibilities': None}, 'Work-life integration': {'Flexibility and balance between personal and professional life': None}, 'Networking and connections': {'Opportunities to build a strong professional network': None}, 'Personal growth and development': {'Chances to learn new skills and advance in your field': None}, 'Job security and stability': {'Industry trends and economic factors impacting demand for your skills': None}, 'Work-life values alignment': {'Alignment with personal values and contribution to important causes': None}, 'Personal circumstances': {'Family responsibilities': None, 'Financial obligations': None, 'Geographic location': None}, 'Job outlook and future trends': {'Researching future prospects and potential growth of desired career field': None}, 'Education and training requirements': {'Necessary qualifications and additional training needed': None}, 'Transferable skills': {'Skills that can be applied to different careers': None}, 'Personal risk tolerance': None, 'Mentorship and guidance': {'Advice and support from professionals in desired field': None}}
+num of ref paths: 40
+num of pred paths: 22
+(ref_path, most_similar_pred_path, score)
+(qq factors to consider when choosing a career passions and interests, qq Factors to consider when choosing a career Personal interests and passions, 0.9668081402778625)
+(qq factors to consider when choosing a career desired salary, qq Factors to consider when choosing a career Values and purpose, 0.8783886432647705)
+(qq factors to consider when choosing a career education requirements, qq Factors to consider when choosing a career Skills and abilities, 0.9184483289718628)
+(qq factors to consider when choosing a career work/life balance, qq Factors to consider when choosing a career Work-life balance, 0.98930823802948)
+(qq factors to consider when choosing a career travel requirements, qq Factors to consider when choosing a career Skills and abilities, 0.7647380232810974)
+(qq factors to consider when choosing a career opportunities for growth and development, qq Factors to consider when choosing a career Skills and abilities, 0.9110463857650757)
+(qq factors to consider when choosing a career job market outlook, qq Factors to consider when choosing a career Job market and demand, 0.9267024993896484)
+(qq personal factors to consider do what makes you happy, qq Factors to consider when choosing a career Values and purpose, 0.6556805372238159)
+(qq personal factors to consider be open to trying new things, qq Personal growth and development Chances to learn new skills and advance in your field, 0.6634184718132019)
+(qq personal factors to consider it's okay if you don't do what you went to college for, qq Factors to consider when choosing a career Skills and abilities, 0.6285594701766968)
+(qq how to decide on a career consider key factors and answer important questions, qq Factors to consider when choosing a career Values and purpose, 0.8636890649795532)
+(qq why you may struggle with choosing a career lack of clear personal and career goals, qq Factors to consider when choosing a career Long-term goals and opportunities, 0.74858158826828)
+(qq related articles the best jobs for moms with no degree, qq Job outlook and future trends Researching future prospects and potential growth of desired career field, 0.5461360216140747)
+(qq related articles networking tips to boost your career, qq Networking and connections Opportunities to build a strong professional network, 0.7706122994422913)
+(qq related articles what a 5-figure salary gets you, qq Factors to consider when choosing a career Financial considerations, 0.5784037113189697)
+(qq related articles how to avoid making rash decisions in your career, qq Factors to consider when choosing a career Skills and abilities, 0.689764142036438)
+(qq consider your interests and passions, qq Factors to consider when choosing a career Personal interests and passions, 0.8484874963760376)
+(qq take into account your skills and qualifications, qq Education and training requirements Necessary qualifications and additional training needed, 0.8009893894195557)
+(qq your personality type can guide you towards suitable careers, qq Factors to consider when choosing a career Skills and abilities, 0.7554649114608765)
+(qq consider your preferences and lifestyle, qq Personal risk tolerance, 0.6262280941009521)
+(qq research the job market and future prospects, qq Job outlook and future trends Researching future prospects and potential growth of desired career field, 0.8811604976654053)
+(qq consider the earning potential of different careers, qq Factors to consider when choosing a career Values and purpose, 0.7630988359451294)
+(qq it's never too late to change careers and retrain, qq Job outlook and future trends Researching future prospects and potential growth of desired career field, 0.6583560705184937)
+(qq evaluate your personality traits, qq Factors to consider when choosing a career Skills and abilities, 0.6719030141830444)
+(qq determine your career goals, qq Factors to consider when choosing a career Long-term goals and opportunities, 0.8754439353942871)
+(qq identify your values, qq Work-life values alignment Alignment with personal values and contribution to important causes, 0.5348008871078491)
+(qq explore different career options, qq Factors to consider when choosing a career Skills and abilities, 0.804352343082428)
+(qq research potential salary ranges, qq Job outlook and future trends Researching future prospects and potential growth of desired career field, 0.7069733142852783)
+(qq consider job prospects and outlooks, qq Job outlook and future trends Researching future prospects and potential growth of desired career field, 0.8450123071670532)
+(qq understand educational requirements and costs, qq Education and training requirements Necessary qualifications and additional training needed, 0.779210090637207)
+(qq seek guidance from counselors and professionals, qq Mentorship and guidance Advice and support from professionals in desired field, 0.7106117010116577)
+(qq take advantage of learning opportunities and networking, qq Networking and connections Opportunities to build a strong professional network, 0.8154358863830566)
+(qq interests consider your passions and what topics you enjoy learning about, qq Factors to consider when choosing a career Personal interests and passions, 0.7983900308609009)
+(qq transferable skills assess how your current skills can be applied to a new job, qq Transferable skills Skills that can be applied to different careers, 0.884773850440979)
+(qq lifestyle preferences determine what kind of lifestyle you want and find a career that aligns with it, qq Factors to consider when choosing a career Work-life balance, 0.6949330568313599)
+(qq values and beliefs choose a career that aligns with your personal values, qq Factors to consider when choosing a career Values and purpose, 0.8191627264022827)
+(qq personality fit find a career that suits your personality type, qq Factors to consider when choosing a career Skills and abilities, 0.7127325534820557)
+(qq education consider your educational background when choosing a career, qq Factors to consider when choosing a career Skills and abilities, 0.8306136131286621)
+(qq salary expectations ensure the career you choose offers a satisfactory salary, qq Job outlook and future trends Researching future prospects and potential growth of desired career field, 0.7148311138153076)
+(qq job outlook evaluate the demand and growth potential of the career, qq Job outlook and future trends Researching future prospects and potential growth of desired career field, 0.8970072269439697)
+path coverage score: 0.7732564628124237
+- Financial stability: Assess financial situation and costs associated with raising a child.
+- Emotional readiness: Reflect on ability to handle stress and sleep deprivation.
+- Relationship dynamics: Evaluate compatibility with partner in terms of parenting styles and responsibilities.
+- Lifestyle changes: Consider sacrifices in social life, personal time, and career aspirations.
+- Support system: Assess availability of family and friends for assistance and guidance.
+- Health considerations: Evaluate physical health and consult healthcare professional.
+- Parenting values and beliefs: Reflect on values and ensure alignment with partner.
+- Time and energy commitment: Understand the significant commitment required.
+- Future plans: Consider impact on career, education, and other life plans.
+- Readiness for responsibility: Assess willingness to prioritize child's needs.
+---------------
+- Assess parenting skills and knowledge
+- Evaluate work-life balance
+- Consider housing and living arrangements
+- Reflect on time for self-care
+- Consider cultural and societal factors
+- Reflect on impact on existing children or family members
+- Consider fertility and reproductive health
+---------------
+- Research and evaluate childcare options: cost, availability, quality, compatibility with work schedule
+- Understand parental leave policies: time off work, financial implications
+- Consider impact on social life and relationships
+- Assess environmental factors: air quality, green spaces, neighborhood safety
+- Consider special needs or health considerations: genetic disorders, consult healthcare professionals
+- Explore adoption or alternative paths to parenthood: adoption, surrogacy, fostering
+- Reflect on long-term commitment: lifelong responsibility of providing love, support, and guidance
+- Consider personal fulfillment and happiness: alignment with personal goals and sense of purpose
+---------------
+
+{'Parenting Considerations': {'Financial stability': None, 'Emotional readiness': None, 'Relationship dynamics': None, 'Lifestyle changes': None, 'Support system': None, 'Health considerations': None, 'Parenting values and beliefs': None, 'Time and energy commitment': None, 'Future plans': None, 'Readiness for responsibility': None}, 'Additional Factors to Consider': {'Assessing parenting skills and knowledge': None, 'Evaluating work-life balance': None, 'Considering housing and living arrangements': None, 'Reflecting on time for self-care': None, 'Considering cultural and societal factors': None, 'Reflecting on impact on existing children or family members': None, 'Considering fertility and reproductive health': None}, 'Practical Considerations': {'Researching and evaluating childcare options': None, 'Understanding parental leave policies': None, 'Considering impact on social life and relationships': None, 'Assessing environmental factors': None, 'Considering special needs or health considerations': None, 'Exploring adoption or alternative paths to parenthood': None, 'Reflecting on long-term commitment': None, 'Considering personal fulfillment and happiness': None}}
+num of ref paths: 28
+num of pred paths: 25
+(ref_path, most_similar_pred_path, score)
+(qq parenting raising a child requires nonstop care and attention, qq Parenting Considerations Readiness for responsibility, 0.844650149345398)
+(qq parenting partner or family support makes parenting easier, qq Parenting Considerations Support system, 0.8444532752037048)
+(qq parenting partner or family support tests relationships, qq Parenting Considerations Relationship dynamics, 0.8185467720031738)
+(qq parenting communication important consideration, qq Parenting Considerations Future plans, 0.8791284561157227)
+(qq parenting financial responsibility important consideration, qq Parenting Considerations Financial stability, 0.8941235542297363)
+(qq parenting shared childcare important consideration, qq Practical Considerations Researching and evaluating childcare options, 0.8419909477233887)
+(qq parenting single parenting advantages, qq Parenting Considerations Support system, 0.8659539222717285)
+(qq parenting single parenting challenges, qq Parenting Considerations Support system, 0.8571162223815918)
+(qq parenting support from friends and family important consideration, qq Parenting Considerations Support system, 0.837632954120636)
+(qq parenting childcare arrangements important consideration, qq Practical Considerations Researching and evaluating childcare options, 0.8676131963729858)
+(qq preconception care focus on preparing for pregnancy increase chances of having a healthy baby, qq Additional Factors to Consider Considering fertility and reproductive health, 0.6187939643859863)
+(qq preconception care make a plan and take action, qq Parenting Considerations Future plans, 0.6077573299407959)
+(qq preconception care see doctor before getting pregnant discuss health history, medical conditions, medications, vaccinations, qq Additional Factors to Consider Considering fertility and reproductive health, 0.6101698875427246)
+(qq preconception care take folic acid daily prevent birth defects, qq Additional Factors to Consider Considering fertility and reproductive health, 0.542333722114563)
+(qq preconception care avoid alcohol, smoking, certain drugs avoid pregnancy complications, birth defects, qq Additional Factors to Consider Considering fertility and reproductive health, 0.6182021498680115)
+(qq preconception care avoid toxic substances, environmental contaminants harm reproductive health, qq Additional Factors to Consider Considering fertility and reproductive health, 0.6499229669570923)
+(qq preconception care reach and maintain a healthy weight reduce risk of complications, qq Parenting Considerations Health considerations, 0.5756261348724365)
+(qq preconception care learn family history identify potential factors affecting baby's health, qq Parenting Considerations Health considerations, 0.6453323364257812)
+(qq preconception care take care of mental health seek help if needed, qq Practical Considerations Considering special needs or health considerations, 0.5483875274658203)
+(qq preconception care collect family's health history help with genetic counseling if necessary, qq Parenting Considerations Health considerations, 0.5877916812896729)
+(qq preconception care take daily supplement of folic acid reduce risk of neural tube defects, qq Additional Factors to Consider Considering fertility and reproductive health, 0.4134294092655182)
+(qq preconception care stop smoking avoid health problems for mother and baby, qq Parenting Considerations Health considerations, 0.638094425201416)
+(qq preconception care avoid alcohol during pregnancy prevent harm to the baby, qq Parenting Considerations Health considerations, 0.5227868556976318)
+(qq preconception care maintain a healthy weight improve fertility, reduce pregnancy complications, qq Additional Factors to Consider Considering fertility and reproductive health, 0.6600703001022339)
+(qq preconception care be cautious about taking medications during pregnancy consult a doctor, qq Parenting Considerations Health considerations, 0.5021344423294067)
+(qq preconception care check vaccination history consider getting vaccinated before pregnancy, qq Parenting Considerations Health considerations, 0.49975794553756714)
+(qq preconception care discuss pregnancy plans with a doctor if have long-term condition or mental health condition, qq Additional Factors to Consider Considering fertility and reproductive health, 0.6055257320404053)
+(qq preconception care consider testing for sickle cell disease and thalassaemia before starting a family, qq Parenting Considerations Health considerations, 0.5245411992073059)
+path coverage score: 0.6757809807147298
+- Budget: Determine affordability, including ongoing expenses.
+- Needs and lifestyle: Consider specific requirements and features.
+- Research: Thoroughly compare car models for reliability, performance, and fuel efficiency.
+- New or used: Decide between new cars with warranties or used cars with lower costs.
+- Financing options: Explore loan or leasing options based on interest rates and monthly payments.
+- Test drive: Experience the car's performance, comfort, and handling.
+- Insurance costs: Research insurance premiums based on theft rates and repair costs.
+- Maintenance and repair costs: Estimate costs for parts and specialized servicing.
+- Resale value: Consider the car's potential value when selling or trading in the future.
+- Safety features: Check for airbags, anti-lock braking systems, stability control, and advanced driver-assistance systems.
+---------------
+- Fuel efficiency: Consider the car's fuel efficiency and type of fuel required.
+- Environmental impact: Evaluate options like hybrid or electric cars with lower emissions.
+- Warranty and maintenance packages: Look into manufacturer warranties and additional maintenance packages.
+- Resale value: Research the car's resale value to determine its long-term worth.
+- Ownership costs: Consider insurance, maintenance, repairs, and depreciation costs.
+- Reliability and reputation: Check consumer reviews and reliability ratings for the car brand and model.
+---------------
+- Evaluate the size and space of the car
+- Assess the car's technology and connectivity features
+- Research the car's reliability and safety ratings
+- Consider the resale value of the car
+- Look into the estimated ownership and maintenance costs
+- Explore alternative options such as leasing or car-sharing services
+- Research the reputation of the dealership
+---------------
+
+{'Car Buying Process': {'Budget': None, 'Needs and Lifestyle': None, 'Research': {'Reliability': None, 'Performance': None, 'Fuel Efficiency': None}, 'New or Used': None, 'Financing Options': {'Loan': None, 'Leasing': None}, 'Test Drive': None, 'Insurance Costs': None, 'Maintenance and Repair Costs': None, 'Resale Value': None, 'Safety Features': {'Airbags': None, 'Anti-lock Braking Systems': None, 'Stability Control': None, 'Advanced Driver-Assistance Systems': None}}, 'Additional Considerations': {'Fuel Efficiency': None, 'Environmental Impact': None, 'Warranty and Maintenance Packages': None, 'Ownership Costs': None, 'Reliability and Reputation': None}, 'Other Factors': {'Size and Space': None, 'Technology and Connectivity Features': None, 'Alternative Options': None, 'Dealership Reputation': None}}
+num of ref paths: 41
+num of pred paths: 25
+(ref_path, most_similar_pred_path, score)
+(qq factors to consider when buying a car practicality, qq Car Buying Process Needs and Lifestyle, 0.8128187656402588)
+(qq factors to consider when buying a car budget consider options like used cars, qq Car Buying Process Budget, 0.797742486000061)
+(qq factors to consider when buying a car electric vehicles lower running costs, qq Car Buying Process Budget, 0.6417666673660278)
+(qq factors to consider when buying a car electric vehicles constantly improving battery power and range, qq Additional Considerations Fuel Efficiency, 0.5853784084320068)
+(qq factors to consider when buying a car operating costs fuel efficiency, qq Car Buying Process Research Fuel Efficiency, 0.8706727027893066)
+(qq factors to consider when buying a car operating costs maintenance and repair costs, qq Car Buying Process Maintenance and Repair Costs, 0.8956457376480103)
+(qq factors to consider when buying a car operating costs taxes, qq Car Buying Process Budget, 0.7407686114311218)
+(qq factors to consider when buying a car operating costs insurance, qq Car Buying Process Insurance Costs, 0.8560525178909302)
+(qq factors to consider when buying a car durability, qq Car Buying Process Research Reliability, 0.7609177827835083)
+(qq factors to consider when buying a car resale value, qq Car Buying Process Resale Value, 0.8861862421035767)
+(qq factors to consider when buying a car car's history, qq Car Buying Process Research Performance, 0.765231192111969)
+(qq factors to consider when buying a car test drive, qq Car Buying Process Test Drive, 0.8209112882614136)
+(qq determine your budget before buying a new car consider additional costs like RTO, insurance, and handling charges, qq Car Buying Process Budget, 0.7999930381774902)
+(qq choose the fuel type based on your usage diesel becoming less popular, qq Additional Considerations Fuel Efficiency, 0.7335626482963562)
+(qq choose the fuel type based on your usage electric cars offering long-term savings, qq Additional Considerations Fuel Efficiency, 0.7349590063095093)
+(qq consider the body type of the car hatchbacks for easy parking, qq Car Buying Process Financing Options Leasing, 0.4265301823616028)
+(qq consider the body type of the car sedans for more space and luxury, qq Car Buying Process Needs and Lifestyle, 0.5798009634017944)
+(qq consider the body type of the car SUVs for off-roading and urban use, qq Car Buying Process Needs and Lifestyle, 0.5321651101112366)
+(qq focus on the power (Bhp) of the engine consider turbocharging for better performance and fuel efficiency, qq Additional Considerations Fuel Efficiency, 0.6676422357559204)
+(qq decide between manual and automatic transmission based on budget, inter-city travel, and preference for a comfortable ride, qq Car Buying Process Needs and Lifestyle, 0.5707420110702515)
+(qq check the safety rating of the car before buying, qq Car Buying Process Safety Features Advanced Driver-Assistance Systems, 0.7500766515731812)
+(qq consider the ownership cost including maintenance expenses, qq Additional Considerations Ownership Costs, 0.820231020450592)
+(qq consider the ownership cost as the value of the car depreciates over time, qq Car Buying Process Resale Value, 0.6731774806976318)
+(qq think about the resale value of the car as it can vary depending on the manufacturer, qq Car Buying Process Resale Value, 0.8303056955337524)
+(qq look for necessary creature comforts and features in the car considering the top-end variant for additional bells and whistles, qq Car Buying Process Needs and Lifestyle, 0.6295065879821777)
+(qq get preapproved for a car loan before visiting a dealership to determine how much car you can afford, qq Car Buying Process Financing Options Loan, 0.7020399570465088)
+(qq get preapproved for a car loan before visiting a dealership and avoid being charged higher interest rates, qq Car Buying Process Financing Options Loan, 0.6940994262695312)
+(qq keep negotiations simple at the dealership by focusing on the price of the vehicle first, qq Car Buying Process Budget, 0.7081351280212402)
+(qq keep negotiations simple at the dealership and not revealing information about trade-ins or financing plans, qq Car Buying Process Financing Options Leasing, 0.6194221377372742)
+(qq avoid buying add-ons at the dealership such as extended warranties and gap insurance, qq Additional Considerations Warranty and Maintenance Packages, 0.6670799255371094)
+(qq avoid buying add-ons at the dealership consider purchasing them later or through a regular insurance company, qq Car Buying Process Insurance Costs, 0.5930420160293579)
+(qq beware of longer-term car loans as they result in lower monthly payments but higher interest rates, qq Car Buying Process Financing Options Loan, 0.6707009673118591)
+(qq beware of longer-term car loans and can leave you owing more than the car is worth if you decide to sell it, qq Car Buying Process Financing Options Loan, 0.696818470954895)
+(qq don't buy more car than you can afford consider buying a used car to save money as the reliability of used cars has improved, qq Car Buying Process Needs and Lifestyle, 0.7570861577987671)
+(qq don't buy more car than you can afford consider buying a used car to save money and there are many options available, qq Car Buying Process Needs and Lifestyle, 0.7678818702697754)
+(qq consider your budget and whether a car loan is necessary, qq Car Buying Process Budget, 0.7317031621932983)
+(qq decide between buying a brand new or second-hand car considering factors such as warranty, depreciation, and reliability, qq Car Buying Process Research Reliability, 0.7642459273338318)
+(qq determine what type of car suits your needs considering factors such as body type, transmission, and extras, qq Car Buying Process Needs and Lifestyle, 0.702339768409729)
+(qq take into account the cost of upkeep including maintenance and insurance, qq Additional Considerations Warranty and Maintenance Packages, 0.7708232402801514)
+(qq consider getting a safety inspection for a second-hand car, qq Car Buying Process Safety Features Advanced Driver-Assistance Systems, 0.6560190320014954)
+(qq be aware of additional expenses such as stamp duty, registration, and roadside assistance membership, qq Additional Considerations Ownership Costs, 0.6786260604858398)
+path coverage score: 0.7161670312648867
+- Cryptocurrency prices are highly volatile
+- Thoroughly research the cryptocurrency before investing
+- Diversify investments to spread risk
+- Implement strong security measures
+- Stay informed about regulatory environment
+- Beware of scams and fraud
+- Take a long-term perspective
+- Assess risk tolerance before investing
+- Stay updated on market trends
+- Consider financial situation and goals before investing
+---------------
+- Consider the liquidity of the cryptocurrency
+- Look at the market capitalization
+- Evaluate the use case and adoption potential
+- Assess the team and community behind the project
+- Understand the legal and regulatory landscape
+- Be aware of tax implications
+- Use technical analysis for investment decisions
+- Be emotionally prepared for market volatility
+- Continuously educate yourself about cryptocurrencies
+- Seek professional advice if unsure or inexperienced in cryptocurrency investing
+---------------
+- Market sentiment: Consider the impact of positive or negative sentiment on cryptocurrency prices.
+- Network security: Assess the security measures in place to protect against hacking and cyber threats.
+- Scalability: Evaluate if the cryptocurrency can handle a large number of transactions and users.
+- Regulatory changes: Stay informed about potential changes in regulations that could affect the cryptocurrency market.
+- Exit strategy: Determine profit targets and when to sell investments.
+- Psychological factors: Be aware of emotions like FOMO and fear of loss when making investment decisions.
+- Market manipulation: Be cautious of manipulative practices that can artificially inflate or deflate prices.
+- Technical understanding: Develop a basic understanding of blockchain technology and cryptocurrencies.
+- Accessibility: Consider the availability and technical requirements of the cryptocurrency.
+- Patience and discipline: Exercise patience and stick to your investment strategy.
+---------------
+
+{'Cryptocurrency Investing': {'Important Considerations': {'Cryptocurrency Volatility': None, 'Thorough Research': None, 'Diversification': None, 'Security Measures': None, 'Regulatory Environment': None, 'Scams and Fraud': None, 'Long-Term Perspective': None, 'Risk Assessment': None, 'Market Trends': None, 'Financial Situation and Goals': None}, 'Evaluation Factors': {'Liquidity': None, 'Market Capitalization': None, 'Use Case and Adoption Potential': None, 'Team and Community': None, 'Legal and Regulatory Landscape': None, 'Tax Implications': None, 'Technical Analysis': None, 'Emotional Preparedness': None, 'Market Manipulation': None, 'Technical Understanding': None, 'Accessibility': None, 'Patience and Discipline': None}, 'Additional Considerations': {'Market Sentiment': None, 'Network Security': None, 'Scalability': None, 'Regulatory Changes': None, 'Exit Strategy': None, 'Psychological Factors': None, 'Continuous Education': None, 'Professional Advice': None}}}
+num of ref paths: 30
+num of pred paths: 30
+(ref_path, most_similar_pred_path, score)
+(qq considerations before investing in cryptocurrency motivation and investment goals, qq Cryptocurrency Investing Important Considerations Financial Situation and Goals, 0.8733798265457153)
+(qq considerations before investing in cryptocurrency secure private keys, qq Cryptocurrency Investing Important Considerations Security Measures, 0.8329665064811707)
+(qq considerations before investing in cryptocurrency understand cryptocurrency industry and different currencies, qq Cryptocurrency Investing Important Considerations Thorough Research, 0.8678534030914307)
+(qq considerations before investing in cryptocurrency consider security and convenience of wallets hot wallets, qq Cryptocurrency Investing Important Considerations Security Measures, 0.8169234991073608)
+(qq considerations before investing in cryptocurrency consider security and convenience of wallets cold wallets, qq Cryptocurrency Investing Important Considerations Security Measures, 0.810238242149353)
+(qq considerations before investing in cryptocurrency read white papers of cryptocurrency projects, qq Cryptocurrency Investing Important Considerations Thorough Research, 0.8875582218170166)
+(qq considerations before investing in cryptocurrency perform test transactions, qq Cryptocurrency Investing Important Considerations Risk Assessment, 0.7668684720993042)
+(qq considerations before investing in cryptocurrency patience in volatile market, qq Cryptocurrency Investing Evaluation Factors Patience and Discipline, 0.8437262773513794)
+(qq cryptocurrency basics digital or virtual currency secured by cryptography, qq Cryptocurrency Investing Important Considerations Security Measures, 0.7708589434623718)
+(qq cryptocurrency basics based on blockchain technology, qq Cryptocurrency Investing Important Considerations Thorough Research, 0.7519592642784119)
+(qq risks and concerns in cryptocurrency investment highly risky and speculative endeavor, qq Cryptocurrency Investing Important Considerations Risk Assessment, 0.9018114805221558)
+(qq risks and concerns in cryptocurrency investment thorough research necessary, qq Cryptocurrency Investing Important Considerations Risk Assessment, 0.9228041172027588)
+(qq risks and concerns in cryptocurrency investment concerns and uncertainties, qq Cryptocurrency Investing Important Considerations Risk Assessment, 0.9196876287460327)
+(qq risks and concerns in cryptocurrency investment trustless approach and avoiding scams, qq Cryptocurrency Investing Important Considerations Scams and Fraud, 0.8625990152359009)
+(qq risks and concerns in cryptocurrency investment unit bias should be avoided, qq Cryptocurrency Investing Important Considerations Risk Assessment, 0.880948007106781)
+(qq risks and concerns in cryptocurrency investment choosing the right wallet, qq Cryptocurrency Investing Important Considerations Risk Assessment, 0.8426355719566345)
+(qq risks and concerns in cryptocurrency investment taxation and regulatory concerns, qq Cryptocurrency Investing Evaluation Factors Tax Implications, 0.8805910348892212)
+(qq risks and concerns in cryptocurrency investment risk management and strategic planning, qq Cryptocurrency Investing Important Considerations Risk Assessment, 0.8953537344932556)
+(qq investment strategies and tips understand buying, selling, and exchanging cryptocurrencies, qq Cryptocurrency Investing Important Considerations Financial Situation and Goals, 0.8564270734786987)
+(qq investment strategies and tips diversify portfolio, qq Cryptocurrency Investing Important Considerations Diversification, 0.7560992240905762)
+(qq investment strategies and tips conduct thorough research on projects, qq Cryptocurrency Investing Evaluation Factors Technical Understanding, 0.6177089214324951)
+(qq investment strategies and tips compare roadmap with developer activity, qq Cryptocurrency Investing Evaluation Factors Technical Analysis, 0.5810408592224121)
+(qq investment strategies and tips avoid impulsive investments driven by emotions, qq Cryptocurrency Investing Evaluation Factors Emotional Preparedness, 0.7077025771141052)
+(qq investment strategies and tips only invest what you can afford to lose, qq Cryptocurrency Investing Additional Considerations Exit Strategy, 0.645605742931366)
+(qq investment strategies and tips keep a long-term perspective, qq Cryptocurrency Investing Important Considerations Long-Term Perspective, 0.7283967733383179)
+(qq characteristics and risks of cryptocurrencies decentralized and not controlled by any government entity, qq Cryptocurrency Investing Important Considerations Security Measures, 0.7371973991394043)
+(qq characteristics and risks of cryptocurrencies speculative in nature with uncertain long-term survival, qq Cryptocurrency Investing Important Considerations Long-Term Perspective, 0.7875127792358398)
+(qq characteristics and risks of cryptocurrencies highly volatile and can experience significant price fluctuations, qq Cryptocurrency Investing Important Considerations Market Trends, 0.7925216555595398)
+(qq characteristics and risks of cryptocurrencies risk of cyber attacks on exchanges, qq Cryptocurrency Investing Important Considerations Security Measures, 0.7398935556411743)
+(qq characteristics and risks of cryptocurrencies capital gains tax on cryptocurrency investments, qq Cryptocurrency Investing Evaluation Factors Tax Implications, 0.901985764503479)
+path coverage score: 0.8060285190741221
+- Important factors to consider before starting a podcast:
+  - Determine topic and target audience
+  - Decide on format and structure
+  - Invest in quality recording equipment
+  - Create a content plan and outline
+  - Develop unique branding and artwork
+  - Plan promotion and marketing strategies
+  - Commit to a regular release schedule
+  - Learn basic audio editing skills or outsource
+  - Consider providing show notes and transcripts
+  - Encourage listener engagement and feedback.
+---------------
+- Research existing podcasts in your niche and differentiate your podcast from the competition.
+- Understand the time commitment required for planning, recording, editing, and promoting episodes.
+- Determine your budget for equipment, hosting fees, and marketing, and explore monetization strategies.
+- Carefully select and prepare guests for interviews, researching their expertise and relevance to your topic.
+- Familiarize yourself with copyright laws and legal considerations related to podcasting.
+- Set up analytics tools to track downloads, listener demographics, and engagement.
+- Build relationships with other podcasters and industry professionals for collaboration and cross-promotion.
+- Seek feedback from listeners and continuously improve your content, format, and delivery.
+---------------
+- Choose a reliable podcast hosting platform
+- Decide on the ideal episode length
+- Consider scripting or improvisation for your episodes
+- Have guests sign release forms for legal protection
+- Provide closed captions or transcripts for accessibility
+- Build a community through social media engagement
+- Be prepared for a long-term commitment in podcasting
+---------------
+
+{'Important factors to consider before starting a podcast': {'Determine topic and target audience': None, 'Decide on format and structure': None, 'Invest in quality recording equipment': None, 'Create a content plan and outline': None, 'Develop unique branding and artwork': None, 'Plan promotion and marketing strategies': None, 'Commit to a regular release schedule': None, 'Learn basic audio editing skills or outsource': None, 'Consider providing show notes and transcripts': None, 'Encourage listener engagement and feedback': None}, 'Research existing podcasts in your niche and differentiate your podcast from the competition': None, 'Understand the time commitment required for planning, recording, editing, and promoting episodes': None, 'Determine your budget for equipment, hosting fees, and marketing, and explore monetization strategies': None, 'Carefully select and prepare guests for interviews, researching their expertise and relevance to your topic': None, 'Familiarize yourself with copyright laws and legal considerations related to podcasting': None, 'Set up analytics tools to track downloads, listener demographics, and engagement': None, 'Build relationships with other podcasters and industry professionals for collaboration and cross-promotion': None, 'Seek feedback from listeners and continuously improve your content, format, and delivery': None, 'Choose a reliable podcast hosting platform': None, 'Decide on the ideal episode length': None, 'Consider scripting or improvisation for your episodes': None, 'Have guests sign release forms for legal protection': None, 'Provide closed captions or transcripts for accessibility': None, 'Build a community through social media engagement': None, 'Be prepared for a long-term commitment in podcasting': None}
+num of ref paths: 26
+num of pred paths: 25
+(ref_path, most_similar_pred_path, score)
+(qq steps to start a podcast choose a topic or theme, qq Important factors to consider before starting a podcast Determine topic and target audience, 0.8187829256057739)
+(qq steps to start a podcast decide on format and plan segments, qq Important factors to consider before starting a podcast Decide on format and structure, 0.8432743549346924)
+(qq steps to start a podcast find co-hosts or guests, qq Build relationships with other podcasters and industry professionals for collaboration and cross-promotion, 0.7125469446182251)
+(qq steps to start a podcast record and edit episodes, qq Important factors to consider before starting a podcast Consider providing show notes and transcripts, 0.7724802494049072)
+(qq steps to start a podcast finalize podcast name and logo, qq Important factors to consider before starting a podcast Develop unique branding and artwork, 0.7443599700927734)
+(qq steps to start a podcast create a website for show notes, qq Important factors to consider before starting a podcast Consider providing show notes and transcripts, 0.8029423952102661)
+(qq steps to start a podcast build a promotion strategy, qq Important factors to consider before starting a podcast Plan promotion and marketing strategies, 0.8687178492546082)
+(qq steps to start a podcast track metrics and understand audience, qq Important factors to consider before starting a podcast Determine topic and target audience, 0.8198078274726868)
+(qq steps to start a podcast explore monetization strategies, qq Important factors to consider before starting a podcast Plan promotion and marketing strategies, 0.7279276847839355)
+(qq tips for starting a podcast have a clear strategy and purpose, qq Important factors to consider before starting a podcast Create a content plan and outline, 0.8696866035461426)
+(qq tips for starting a podcast select a topic you're passionate about, qq Important factors to consider before starting a podcast Determine topic and target audience, 0.8506971597671509)
+(qq tips for starting a podcast invest in good quality equipment, qq Important factors to consider before starting a podcast Invest in quality recording equipment, 0.9163495302200317)
+(qq tips for starting a podcast grow podcast with guests and big launch, qq Important factors to consider before starting a podcast Encourage listener engagement and feedback, 0.7746657729148865)
+(qq tips for starting a podcast share episodes on social media, qq Important factors to consider before starting a podcast Determine topic and target audience, 0.724090576171875)
+(qq tips for starting a podcast manage tasks like naming, cover art, scheduling, editing, etc., qq Important factors to consider before starting a podcast Create a content plan and outline, 0.8003672361373901)
+(qq tips for starting a podcast optimize titles and drive traffic through SEO and social media, qq Research existing podcasts in your niche and differentiate your podcast from the competition, 0.744077205657959)
+(qq tips for starting a podcast distribute on multiple platforms, qq Choose a reliable podcast hosting platform, 0.7889002561569214)
+(qq tips for starting a podcast transcribe episodes for SEO and alternative consumption, qq Research existing podcasts in your niche and differentiate your podcast from the competition, 0.7180875539779663)
+(qq tips for starting a podcast create audiograms for dynamic social media sharing, qq Important factors to consider before starting a podcast Consider providing show notes and transcripts, 0.7039188742637634)
+(qq tips for running a successful podcast know your audience and provide valuable content, qq Important factors to consider before starting a podcast Determine topic and target audience, 0.8510898351669312)
+(qq tips for running a successful podcast establish unique point of view, qq Important factors to consider before starting a podcast Determine topic and target audience, 0.8121045231819153)
+(qq tips for running a successful podcast choose the right format and invest in good equipment, qq Important factors to consider before starting a podcast Invest in quality recording equipment, 0.8728470802307129)
+(qq tips for running a successful podcast select platforms and leverage podcast communities, qq Research existing podcasts in your niche and differentiate your podcast from the competition, 0.8326822519302368)
+(qq tips for running a successful podcast determine episode frequency and track metrics, qq Important factors to consider before starting a podcast Consider providing show notes and transcripts, 0.7170647382736206)
+(qq tips for running a successful podcast consider professional help for editing and promotion, qq Important factors to consider before starting a podcast Learn basic audio editing skills or outsource, 0.8009566068649292)
+(qq tips for running a successful podcast practice and fine-tune process before launching, qq Important factors to consider before starting a podcast Encourage listener engagement and feedback, 0.7909993529319763)
+path coverage score: 0.7953625137989337
+- Research destination: Understand culture, customs, and laws
+- Check travel advisories and safety warnings
+- Obtain necessary travel documents: passport, visa, travel insurance
+- Learn basic local phrases for communication
+- Plan itinerary and book accommodation
+- Budget and currency exchange
+- Take health and safety precautions: vaccinations, first aid kit, emergency contacts
+- Respect local customs and traditions
+- Stay connected and share itinerary with a trusted person
+- Stay informed about local laws and regulations
+---------------
+- Research the climate and weather conditions of the destination
+- Familiarize yourself with local transportation options and infrastructure
+- Check electrical outlets and bring necessary adapters
+- Learn about local customs and etiquette
+- Research food and water safety guidelines
+- Consider purchasing travel insurance and have emergency contacts
+- Familiarize yourself with customs regulations
+- Show cultural sensitivity in dress and photography
+- Understand local currency and tipping customs
+- Stay updated on current events that may affect travel plans
+---------------
+- Pack appropriate clothing and accessories for the destination's climate and activities
+- Check and stay updated on entry requirements, including vaccination, COVID-19 testing, and quarantine protocols
+- Research and familiarize yourself with local transportation options
+- Respect local wildlife and environment, follow responsible tourism guidelines
+- Be aware of cultural sensitivities and avoid unintentionally offending locals
+- Register with your embassy or consulate for assistance and travel advisories
+- Have a plan for emergencies and keep important documents safe
+- Respect local customs and traditions, observe appropriate behavior
+- Learn about local transportation scams and take necessary precautions
+- Keep an open mind, embrace new experiences, and immerse yourself in the local culture.
+---------------
+
+{'Research': {'Destination': {'Culture, customs, and laws': None}, 'Travel advisories and safety warnings': None}, 'Obtain necessary travel documents': {'Passport': None, 'Visa': None, 'Travel insurance': None}, 'Learn basic local phrases for communication': None, 'Plan itinerary and book accommodation': None, 'Budget and currency exchange': None, 'Take health and safety precautions': {'Vaccinations': None, 'First aid kit': None, 'Emergency contacts': None}, 'Respect local customs and traditions': None, 'Stay connected and share itinerary with a trusted person': None, 'Stay informed about local laws and regulations': None, 'Familiarize yourself with local transportation options and infrastructure': None, 'Check electrical outlets and bring necessary adapters': None, 'Research food and water safety guidelines': None, 'Consider purchasing travel insurance and have emergency contacts': None, 'Familiarize yourself with customs regulations': None, 'Show cultural sensitivity in dress and photography': None, 'Understand local currency and tipping customs': None, 'Stay updated on current events that may affect travel plans': None, "Pack appropriate clothing and accessories for the destination's climate and activities": None, 'Check and stay updated on entry requirements, including vaccination, COVID-19 testing, and quarantine protocols': None, 'Respect local wildlife and environment, follow responsible tourism guidelines': None, 'Be aware of cultural sensitivities and avoid unintentionally offending locals': None, 'Register with your embassy or consulate for assistance and travel advisories': None, 'Have a plan for emergencies and keep important documents safe': None, 'Learn about local transportation scams and take necessary precautions': None, 'Keep an open mind, embrace new experiences, and immerse yourself in the local culture': None}
+num of ref paths: 57
+num of pred paths: 30
+(ref_path, most_similar_pred_path, score)
+(qq travel.state.gov Before You Go Traveler's Checklist, qq Research Travel advisories and safety warnings, 0.6585924029350281)
+(qq travel.state.gov Before You Go Safety and Security Messaging, qq Research Travel advisories and safety warnings, 0.726250171661377)
+(qq travel.state.gov Before You Go Information for Specific Types of Travelers LGBTQI+ travelers, qq Register with your embassy or consulate for assistance and travel advisories, 0.5846081376075745)
+(qq travel.state.gov Before You Go Information for Specific Types of Travelers Journalists, qq Register with your embassy or consulate for assistance and travel advisories, 0.6157441139221191)
+(qq travel.state.gov Before You Go Information for Specific Types of Travelers Faith-based travelers, qq Register with your embassy or consulate for assistance and travel advisories, 0.6241496801376343)
+(qq travel.state.gov Emergencies Natural Disasters, qq Take health and safety precautions Emergency contacts, 0.6643164753913879)
+(qq travel.state.gov Emergencies Nuclear Incidents, qq Research Travel advisories and safety warnings, 0.6362837553024292)
+(qq travel.state.gov Health and Insurance Coverage Abroad, qq Obtain necessary travel documents Travel insurance, 0.7659758925437927)
+(qq travel.state.gov Driving and Road Safety Abroad, qq Research Travel advisories and safety warnings, 0.7162085175514221)
+(qq travel.state.gov Customs and Import Restrictions, qq Familiarize yourself with customs regulations, 0.797477662563324)
+(qq travel.state.gov Resources for U.S. Citizens in Russia, qq Register with your embassy or consulate for assistance and travel advisories, 0.585076630115509)
+(qq travel.state.gov Lodging Safety Tips, qq Research Travel advisories and safety warnings, 0.7357817888259888)
+(qq travel.state.gov Smart Traveler Enrollment Program (STEP), qq Obtain necessary travel documents Travel insurance, 0.5887596011161804)
+(qq travel.state.gov External Links Not endorsed by the government, qq Register with your embassy or consulate for assistance and travel advisories, 0.5586554408073425)
+(qq Plan Your Trip Research Destination, qq Research Destination Culture, customs, and laws, 0.7580375671386719)
+(qq Plan Your Trip Create Travel Itinerary, qq Plan itinerary and book accommodation, 0.7808444499969482)
+(qq Plan Your Trip Check Passport and Visas, qq Obtain necessary travel documents Passport, 0.7247182130813599)
+(qq Plan Your Trip Purchase Travel Insurance, qq Obtain necessary travel documents Travel insurance, 0.8329671621322632)
+(qq Plan Your Trip Check Vaccination Requirements, qq Take health and safety precautions Vaccinations, 0.7908139228820801)
+(qq Plan Your Trip Exchange Currency, qq Budget and currency exchange, 0.7842238545417786)
+(qq Plan Your Trip Pack Appropriately, qq Stay updated on current events that may affect travel plans, 0.6737527847290039)
+(qq Read Travel Advice Subscribe to Updates, qq Stay updated on current events that may affect travel plans, 0.7623199224472046)
+(qq Read Travel Advice Follow on Social Media, qq Research Travel advisories and safety warnings, 0.5855748653411865)
+(qq Read Travel Advice Familiarize with COVID-19 Entry and Exit Rules, qq Research Travel advisories and safety warnings, 0.6588031649589539)
+(qq Read Travel Advice Research Local Laws, qq Research Travel advisories and safety warnings, 0.6830168962478638)
+(qq Read Travel Advice Ensure Valid Passport, qq Obtain necessary travel documents Passport, 0.8071567416191101)
+(qq Read Travel Advice Obtain Necessary Visas, qq Register with your embassy or consulate for assistance and travel advisories, 0.7686430215835571)
+(qq Read Travel Advice Get Comprehensive Travel Insurance, qq Consider purchasing travel insurance and have emergency contacts, 0.8308147192001343)
+(qq Read Travel Advice Obtain International COVID-19 Vaccination Certificate, qq Check and stay updated on entry requirements, including vaccination, COVID-19 testing, and quarantine protocols, 0.6728876233100891)
+(qq Read Travel Advice Check Additional Documents for Traveling with Children, qq Obtain necessary travel documents Travel insurance, 0.6493774652481079)
+(qq Read Travel Advice Familiarize with Local Traffic Laws, qq Familiarize yourself with local transportation options and infrastructure, 0.7274559736251831)
+(qq Read Travel Advice Assess Physical and Mental Health, qq Research Travel advisories and safety warnings, 0.6801955699920654)
+(qq Read Travel Advice Visit Doctor for Necessary Vaccinations, qq Take health and safety precautions Vaccinations, 0.7728418111801147)
+(qq Read Travel Advice Ensure Legal and Available Medication, qq Research Travel advisories and safety warnings, 0.708541989326477)
+(qq Read Travel Advice Inform Bank and Check Card Compatibility, qq Obtain necessary travel documents Travel insurance, 0.49062415957450867)
+(qq Read Travel Advice Share Itinerary and Documents with Trusted Contacts, qq Stay connected and share itinerary with a trusted person, 0.7338323593139648)
+(qq Read Travel Advice Know What to Do in Case of Crisis Overseas, qq Research Travel advisories and safety warnings, 0.666782796382904)
+(qq Read Travel Advice Keep List of Emergency Contacts, qq Consider purchasing travel insurance and have emergency contacts, 0.7317566871643066)
+(qq Valid Passport, qq Obtain necessary travel documents Passport, 0.8077861070632935)
+(qq Passport Copies, qq Obtain necessary travel documents Passport, 0.7576562166213989)
+(qq Visa, qq Register with your embassy or consulate for assistance and travel advisories, 0.7460010647773743)
+(qq Travel Health Certificate (THC), qq Obtain necessary travel documents Travel insurance, 0.6124017238616943)
+(qq Foreign Currency, qq Budget and currency exchange, 0.7976880073547363)
+(qq Travel Insurance, qq Obtain necessary travel documents Travel insurance, 0.8606173396110535)
+(qq Printed Flight Tickets, qq Obtain necessary travel documents Travel insurance, 0.555164098739624)
+(qq Proof of Accommodation, qq Plan itinerary and book accommodation, 0.6002274751663208)
+(qq Copies of Identification Documents, qq Obtain necessary travel documents Passport, 0.6085250377655029)
+(qq CDC's Destination Pages Travel Health Information, qq Research Travel advisories and safety warnings, 0.6209210157394409)
+(qq CDC's Destination Pages Routine Vaccines, qq Take health and safety precautions Vaccinations, 0.7067651152610779)
+(qq CDC's Destination Pages Appointment with Healthcare Provider, qq Register with your embassy or consulate for assistance and travel advisories, 0.5393362641334534)
+(qq CDC's Destination Pages Blood Clots Prevention, qq Take health and safety precautions Vaccinations, 0.5518172979354858)
+(qq CDC's Destination Pages Share Important Information with Provider, qq Stay connected and share itinerary with a trusted person, 0.5560885071754456)
+(qq CDC's Destination Pages Take Recommended Medicines, qq Take health and safety precautions Vaccinations, 0.6014261245727539)
+(qq CDC's Destination Pages Travel Insurance and STEP Enrollment, qq Obtain necessary travel documents Travel insurance, 0.7075738310813904)
+(qq CDC's Destination Pages Prepare for Emergencies, qq Have a plan for emergencies and keep important documents safe, 0.729586660861969)
+(qq CDC's Destination Pages Pack Travel Health Kit, qq Take health and safety precautions First aid kit, 0.6327804327011108)
+(qq CDC's Destination Pages Follow CDC's Guidance on Staying Safe, qq Research Travel advisories and safety warnings, 0.6716267466545105)
+path coverage score: 0.6876816326066068
+
+- Credit score: Consider your credit score before applying for a credit card.
+- Interest rates and fees: Understand the APR, balance transfer fees, and other charges associated with the card.
+- Credit limit: Determine an appropriate credit limit based on your spending habits and ability to repay.
+- Rewards and benefits: Evaluate the rewards programs and benefits offered by different cards.
+- Payment terms: Know the minimum payment amount and grace period for interest-free purchases.
+- Credit card usage: Consider how you plan to use your credit card.
+- Responsible credit card usage: Use a credit card responsibly and avoid overspending.
+- Credit card issuer: Research reputable credit card issuers.
+- Additional features: Consider additional features like purchase protection or travel insurance.
+- Financial readiness: Assess your financial stability and ability to manage credit responsibly.
+---------------
+- Credit utilization: Keep credit utilization below 30%.
+- Introductory offers: Understand terms and conditions, including changes after the introductory period.
+- Annual fees: Consider if benefits outweigh the cost.
+- Credit card security: Look for chip technology, two-factor authentication, and fraud monitoring.
+- Impact on credit history: Consider average age of credit accounts and potential impact on credit score.
+- Responsible financial habits: Assess discipline in paying bills on time and avoiding high balances.
+- Alternative options: Consider debit or prepaid cards as alternatives.
+---------------
+- Consider the rewards structure of the credit card and choose one that aligns with your spending habits
+- Check if the card charges foreign transaction fees, especially if you plan to use it while traveling internationally
+- Research the credit card issuer's reputation for customer service and support
+- Read the fine print of the credit card agreement to understand all the terms and conditions
+- Ensure that the card is widely accepted at the places you frequent and compatible with digital wallets or mobile payment platforms
+- Evaluate if the credit card offers additional insurance coverage or protection
+- Read reviews and compare different credit cards before making a final decision
+---------------
+
+{'Credit Card Considerations': {'Credit Score': None, 'Interest Rates and Fees': None, 'Credit Limit': None, 'Rewards and Benefits': None, 'Payment Terms': None, 'Credit Card Usage': None, 'Responsible Credit Card Usage': None, 'Credit Card Issuer': None, 'Additional Features': None, 'Financial Readiness': None}, 'Factors Affecting Credit Score': {'Credit Utilization': None, 'Average Age of Credit Accounts': None, 'Responsible Financial Habits': None}, 'Choosing the Right Credit Card': {'Rewards Structure': None, 'Foreign Transaction Fees': None, 'Credit Card Issuer Reputation': None, 'Terms and Conditions': None, 'Acceptance and Compatibility': None, 'Additional Insurance Coverage': None, 'Reviews and Comparisons': None}}
+num of ref paths: 25
+num of pred paths: 20
+(ref_path, most_similar_pred_path, score)
+(qq what are the factors to consider when choosing a credit card interest rates, qq Credit Card Considerations Interest Rates and Fees, 0.8048138618469238)
+(qq what are the factors to consider when choosing a credit card fees, qq Choosing the Right Credit Card Foreign Transaction Fees, 0.8236345648765564)
+(qq what are the factors to consider when choosing a credit card rewards, qq Choosing the Right Credit Card Rewards Structure, 0.8829204440116882)
+(qq what are the factors to consider when choosing a credit card penalties and fees, qq Choosing the Right Credit Card Foreign Transaction Fees, 0.7749559879302979)
+(qq what are the factors to consider when choosing a credit card number of credit cards, qq Choosing the Right Credit Card Acceptance and Compatibility, 0.7740589380264282)
+(qq what are the factors to consider when choosing a credit card store credit cards, qq Choosing the Right Credit Card Acceptance and Compatibility, 0.78892582654953)
+(qq how to build credit with credit cards use responsibly, qq Credit Card Considerations Responsible Credit Card Usage, 0.800499677658081)
+(qq how to build credit with credit cards make payments on time, qq Credit Card Considerations Payment Terms, 0.6650165319442749)
+(qq how to build credit with credit cards keep low credit utilization, qq Credit Card Considerations Credit Card Usage, 0.745042085647583)
+(qq important terms to know annual fee, qq Credit Card Considerations Interest Rates and Fees, 0.6769832372665405)
+(qq important terms to know APR, qq Credit Card Considerations Payment Terms, 0.5993540287017822)
+(qq important terms to know credit limit, qq Credit Card Considerations Credit Limit, 0.7938489317893982)
+(qq important terms to know interest charges, qq Credit Card Considerations Interest Rates and Fees, 0.723023533821106)
+(qq important terms to know late fee, qq Credit Card Considerations Payment Terms, 0.6653310656547546)
+(qq important terms to know minimum payment, qq Credit Card Considerations Payment Terms, 0.733729362487793)
+(qq important terms to know payment due date, qq Credit Card Considerations Payment Terms, 0.7313754558563232)
+(qq important terms to know statement, qq Choosing the Right Credit Card Terms and Conditions, 0.5348597168922424)
+(qq how to choose a first credit card consider interest rates and fees, qq Credit Card Considerations Interest Rates and Fees, 0.8372726440429688)
+(qq how to choose a first credit card shop around and compare options, qq Choosing the Right Credit Card Acceptance and Compatibility, 0.7919374704360962)
+(qq how to choose a first credit card secured credit cards, qq Choosing the Right Credit Card Credit Card Issuer Reputation, 0.7844147086143494)
+(qq how to choose a first credit card recommended credit cards for beginners Capital One Platinum Secured Credit Card, qq Choosing the Right Credit Card Credit Card Issuer Reputation, 0.6923520565032959)
+(qq how to choose a first credit card recommended credit cards for beginners Citi Secured Mastercard, qq Choosing the Right Credit Card Acceptance and Compatibility, 0.7076011300086975)
+(qq how to choose a first credit card recommended credit cards for beginners Petal 2 Visa Credit Card, qq Choosing the Right Credit Card Terms and Conditions, 0.707316517829895)
+(qq how to choose a first credit card recommended credit cards for beginners Deserve Digital First Card, qq Choosing the Right Credit Card Acceptance and Compatibility, 0.7409981489181519)
+(qq how to choose a first credit card maintain first credit card for credit history, qq Choosing the Right Credit Card Terms and Conditions, 0.7628701329231262)
+path coverage score: 0.7417254424095154
+- Design and placement: Choose a meaningful design and consider where it will be placed on your body.
+- Research and artist selection: Look at portfolios and reviews to find a reputable artist who specializes in your desired style.
+- Health and safety: Ensure the studio follows hygiene practices and discuss any allergies or medical conditions.
+- Pain and healing: Be prepared for discomfort during the process and follow proper aftercare instructions for healing.
+- Long-term commitment: Consider how your tattoo may be perceived in professional settings and its potential changes over time.
+- Cost: Budget for the expense of a quality tattoo from a skilled artist.
+- Personal and cultural considerations: Think about how your tattoo may be perceived by family, friends, and your community, as well as any cultural implications.
+---------------
+- Future plans: Consider career implications and tattoo policies in certain fields.
+- Allergic reactions: Get a patch test to check for sensitivities to tattoo ink.
+- Emotional preparedness: Mentally prepare for the process and potential emotions.
+- Communication with the artist: Discuss ideas, expectations, and concerns with the tattoo artist.
+- Time and commitment: Understand that tattoos take time to create and heal properly.
+---------------
+- Consider your pain tolerance level and the potential sensitivity of different body areas during the tattooing process.
+- Think about how your lifestyle and regular activities may be affected by a tattoo, such as swimming or intense physical activities.
+- Check for age restrictions and ensure you have the necessary consent if you are under the legal age limit.
+- Be aware of the potential for regret and the options available for cover-ups or tattoo removal.
+- Research the cultural context of a design to avoid cultural appropriation and disrespect.
+- Reflect on your personal motivation for getting a tattoo and ensure it aligns with your own identity and values.
+---------------
+
+{'Tattoo Considerations': {'Design and Placement': None, 'Research and Artist Selection': None, 'Health and Safety': None, 'Pain and Healing': None, 'Long-term Commitment': None, 'Cost': None, 'Personal and Cultural Considerations': None, 'Future Plans': None, 'Allergic Reactions': None, 'Emotional Preparedness': None, 'Communication with the Artist': None, 'Time and Commitment': None, 'Pain Tolerance and Body Sensitivity': None, 'Lifestyle Impact': None, 'Age Restrictions': None, 'Regret and Removal Options': None, 'Cultural Context': None, 'Personal Motivation': None}}
+num of ref paths: 30
+num of pred paths: 18
+(ref_path, most_similar_pred_path, score)
+(qq preparing for a tattoo have a clear idea of the imagery you want, qq Tattoo Considerations Communication with the Artist, 0.8138772249221802)
+(qq preparing for a tattoo consult with an artist for finer details, qq Tattoo Considerations Communication with the Artist, 0.8938463926315308)
+(qq preparing for a tattoo consider different tattooing styles American traditional, qq Tattoo Considerations Personal and Cultural Considerations, 0.8384028673171997)
+(qq preparing for a tattoo consider different tattooing styles traditional Japanese, qq Tattoo Considerations Cultural Context, 0.7769513130187988)
+(qq preparing for a tattoo consider different tattooing styles realism, qq Tattoo Considerations Future Plans, 0.8223158121109009)
+(qq preparing for a tattoo consider different tattooing styles illustrative, qq Tattoo Considerations Future Plans, 0.8457969427108765)
+(qq preparing for a tattoo consider different tattooing styles neo-traditional, qq Tattoo Considerations Future Plans, 0.8216623067855835)
+(qq preparing for a tattoo consider different tattooing styles minimalism or geometric, qq Tattoo Considerations Design and Placement, 0.7989450097084045)
+(qq preparing for a tattoo consider skin tone when choosing colors, qq Tattoo Considerations Emotional Preparedness, 0.7148590683937073)
+(qq preparing for a tattoo think about size and location outlines and shapes may fade or blur over time, qq Tattoo Considerations Future Plans, 0.7582634687423706)
+(qq preparing for a tattoo choose a licensed and hygienic tattoo shop or artist, qq Tattoo Considerations Research and Artist Selection, 0.8378623723983765)
+(qq preparing for a tattoo communicate with the artist during the session, qq Tattoo Considerations Communication with the Artist, 0.8999525308609009)
+(qq preparing for a tattoo follow aftercare instructions, qq Tattoo Considerations Future Plans, 0.8021746873855591)
+(qq pain and removal tattoos can be painful level of pain depends on factors such as pain tolerance, size, and location, qq Tattoo Considerations Pain and Healing, 0.84354168176651)
+(qq pain and removal removal methods laser therapy, qq Tattoo Considerations Pain and Healing, 0.6580199599266052)
+(qq pain and removal removal methods surgical excision, qq Tattoo Considerations Pain and Healing, 0.6787055134773254)
+(qq pain and removal removal methods dermabrasion, qq Tattoo Considerations Pain and Healing, 0.6548857688903809)
+(qq finding the right artist and design research different tattoo artists and styles, qq Tattoo Considerations Research and Artist Selection, 0.8676239848136902)
+(qq finding the right artist and design ensure safety and adherence to regulations, qq Tattoo Considerations Research and Artist Selection, 0.5527160167694092)
+(qq finding the right artist and design avoid haggling over price and tip the artist, qq Tattoo Considerations Research and Artist Selection, 0.6513798236846924)
+(qq finding the right artist and design be prepared mentally and physically, qq Tattoo Considerations Research and Artist Selection, 0.6344853639602661)
+(qq finding the right artist and design follow aftercare instructions and consider touch-ups, qq Tattoo Considerations Research and Artist Selection, 0.6392218470573425)
+(qq appointment and process pick an artist you trust, qq Tattoo Considerations Research and Artist Selection, 0.607892632484436)
+(qq appointment and process make an appointment with specific details, qq Tattoo Considerations Future Plans, 0.41263285279273987)
+(qq appointment and process prepare for the appointment, qq Tattoo Considerations Future Plans, 0.46688365936279297)
+(qq appointment and process arrive on time and follow COVID guidelines, qq Tattoo Considerations Time and Commitment, 0.4265638291835785)
+(qq appointment and process finalize design and placement, qq Tattoo Considerations Design and Placement, 0.5205164551734924)
+(qq appointment and process sit for the tattoo and communicate discomfort, qq Tattoo Considerations Pain and Healing, 0.7892394661903381)
+(qq appointment and process settle bill and tip the artist, qq Tattoo Considerations Communication with the Artist, 0.5851050615310669)
+(qq appointment and process follow aftercare instructions, qq Tattoo Considerations Future Plans, 0.44960543513298035)
+path coverage score: 0.7021309783061346
+Average path coverage score: 0.73178789

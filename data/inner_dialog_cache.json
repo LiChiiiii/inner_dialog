@@ -1,0 +1,536 @@
+{
+  "things to consider before starting a business": {
+    "Starting a business": {
+      "Do your research": {
+        "Market research": null,
+        "Competition research": null,
+        "Target audience research": null
+      },
+      "Create a business plan": null,
+      "Get funding": {
+        "Loans": null,
+        "Investors": null,
+        "Crowdfunding": null
+      },
+      "Build a team": {
+        "Hiring": null,
+        "Onboarding": null,
+        "Mentoring": null
+      },
+      "Market your business": {
+        "Marketing strategy": null,
+        "Content marketing": null,
+        "Social media marketing": null,
+        "Search engine optimization": null
+      },
+      "Manage your finances": {
+        "Bookkeeping": null,
+        "Accounting": null,
+        "Taxes": null
+      },
+      "Stay organized": {
+        "File management": null,
+        "Time management": null,
+        "To-do list": null
+      },
+      "Be prepared to work hard": null,
+      "Be prepared to fail": null,
+      "Be prepared to succeed": null
+    },
+    "Seeking funding": {
+      "Common mistakes": {
+        "Not having a clear business plan": null,
+        "Not being prepared to answer questions about the business": null,
+        "Overestimating their own abilities": null,
+        "Not having a strong team": null,
+        "Not having a clear exit strategy": null,
+        "Not being able to articulate the value proposition": null,
+        "Not being able to demonstrate traction": null,
+        "Not being able to build relationships with investors": null
+      },
+      "How to avoid overestimating your own abilities": {
+        "Be realistic about your own abilities and the challenges of starting and running a business": null,
+        "Surround yourself with a team of experienced and qualified individuals who can help you to succeed": null,
+        "Be prepared for the hard work and dedication required to succeed": null
+      },
+      "How to articulate your value proposition": {
+        "Be clear about what you do": null,
+        "Be clear about who your target market is": null,
+        "Be clear about the problem you solve": null,
+        "Be clear about the benefits you offer": null,
+        "Be clear about your unique selling proposition": null
+      },
+      "How to demonstrate traction without having a track record of success": {
+        "Show potential investors that you have a strong team in place": null,
+        "Show that you have a large and engaged customer base": null,
+        "Show that you have a clear and achievable plan for the future": null
+      }
+    },
+    "Building a team": {
+      "Factors to consider": {
+        "Competence": null,
+        "Commitment": null,
+        "Chemistry": null,
+        "Communication": null,
+        "Culture": null
+      },
+      "How to ensure that your team has the right chemistry": {
+        "Hire for fit, not just skills": null,
+        "Create a culture of trust and respect": null,
+        "Celebrate successes and learn from failures": null,
+        "Provide opportunities for team members to get to know each other": null
+      },
+      "How to create a culture of trust and respect on your team": {
+        "Be honest and transparent": null,
+        "Be respectful of others' opinions": null,
+        "Be willing to admit when you're wrong": null,
+        "Be supportive of your team members": null,
+        "Be consistent": null,
+        "Be fair": null,
+        "Be open-minded": null,
+        "Be positive": null,
+        "Be grateful": null
+      }
+    },
+    "Marketing your business": {
+      "Understand your target market": null,
+      "Develop a strong marketing strategy": null,
+      "Create high-quality content": null,
+      "Use social media and other online channels": null,
+      "Track your results": null,
+      "Be creative": null,
+      "Be patient": null,
+      "Be prepared to adapt": null
+    }
+  },
+  "things to consider before having a baby": {
+    "cost of raising a child": {
+      "cost of childcare": null,
+      "cost of healthcare": null,
+      "cost of education": null,
+      "cost of extracurricular activities": null,
+      "tips for saving money": {
+        "create a budget": null,
+        "start saving money": null,
+        "get life insurance": null,
+        "get health insurance": null,
+        "invest in childcare": null,
+        "take time off work": null
+      }
+    },
+    "emotional readiness for parenthood": {
+      "signs of a strong and supportive relationship": {
+        "communication": null,
+        "conflict resolution": null,
+        "support": null,
+        "commitment": null
+      },
+      "tips for managing stress": {
+        "exercise regularly": null,
+        "get enough sleep": null,
+        "eat a healthy diet": null,
+        "practice relaxation techniques": null,
+        "talk to someone you trust": null,
+        "get professional help if needed": null
+      }
+    },
+    "pregnancy": {
+      "tips for managing stress": {
+        "exercise regularly": null,
+        "get enough sleep": null,
+        "eat a healthy diet": null,
+        "practice relaxation techniques": null,
+        "talk to someone you trust": null,
+        "get professional help if needed": null
+      },
+      "symptoms of pregnancy": {
+        "feeling anxious or worried all the time": null,
+        "having trouble sleeping": null,
+        "having trouble concentrating": null,
+        "feeling irritable or angry": null,
+        "having trouble eating or sleeping": null,
+        "having headaches or stomachaches": null,
+        "feeling tired all the time": null,
+        "having trouble controlling your emotions": null
+      }
+    },
+    "support during pregnancy": {
+      "types of support you may need and want": {
+        "practical support": null,
+        "emotional support": null,
+        "informational support": null
+      },
+      "tips for asking for help": {
+        "be specific about what you need": null,
+        "be open to receiving help in different forms": null,
+        "be grateful for the help you receive": null,
+        "don't be afraid to say no": null
+      }
+    },
+    "parenting": {
+      "parenting styles": {
+        "authoritative": null,
+        "authoritarian": null,
+        "permissive": null,
+        "uninvolved": null
+      },
+      "tips for taking care of yourself": {
+        "eat healthy": null,
+        "get enough sleep": null,
+        "exercise": null,
+        "find time for yourself": null
+      },
+      "tips for asking for help": {
+        "ask your partner": null,
+        "ask your family": null,
+        "ask your friends": null,
+        "ask a professional": null
+      }
+    }
+  },
+  "things to consider before buying a car": {
+    "Consider your budget": {
+      "Consider your needs": null,
+      "Research different types of cars": null,
+      "Test drive different cars": null,
+      "Consider the features you want": null,
+      "Negotiate the price": null
+    },
+    "Set a budget": {
+      "Determine your needs": null,
+      "Consider your driving style": null,
+      "Research maintenance schedules": null,
+      "Evaluate your parking situation": null
+    },
+    "Consider your needs and budget when buying a car": {
+      "Look for fuel efficiency": null,
+      "Look for safety": null,
+      "Look for comfort": null,
+      "Do your research": null,
+      "Negotiate the price": null
+    },
+    "Look for fuel efficiency, safety, and comfort when test-driving a car": {
+      "Look for the car's alignment": null,
+      "Look for the car's brakes": null,
+      "Look for the car's transmission": null,
+      "Look for the car's tires": null,
+      "Look for the car's interior": null,
+      "Look for the car's trunk": null,
+      "Look for the car's visibility": null,
+      "Look for the car's sound system": null,
+      "Look for the car's fuel economy": null,
+      "Look for the car's warranty": null,
+      "Look for the car's build quality": null,
+      "Look for the car's noise levels": null,
+      "Look for the car's ergonomics": null,
+      "Look for the car's features": null,
+      "Look for the car's resale value": null,
+      "Look for the car's brand reputation": null
+    },
+    "Do your research and negotiate the price of a car before buying it": {
+      "Calculate the amount of money you can save by using a fuel economy calculator": null,
+      "Consider the following factors": null,
+      "Estimate how much you can save by using the information you have gathered": null,
+      "Save money on fuel costs by buying a more fuel-efficient car": null,
+      "Encourage people to buy more fuel-efficient cars by providing financial incentives": null,
+      "Make it easier to find and purchase fuel-efficient cars": null,
+      "Educate people about the benefits of fuel-efficient cars": null,
+      "Increase fuel efficiency standards by weighing the costs and benefits": null,
+      "Consider the long-term benefits": null,
+      "Consider the different ways in which we can increase fuel efficiency standards": null
+    },
+    "Compare the safety rating of a car to other cars in its class": {
+      "Research the safety ratings of different cars": null,
+      "Consider the type of car you need": null,
+      "Look for safety features": null,
+      "Test drive the car": null
+    }
+  },
+  "things to consider before investing in cryptocurrency": {
+    "benefits": {
+      "Fast and secure transactions": null,
+      "Decentralized control": null,
+      "Transparency": null,
+      "Anonymity": null,
+      "Limited supply": null,
+      "Programmable money": null
+    },
+    "challenges": {
+      "Volatility": null,
+      "Security": null,
+      "Regulation": null,
+      "Fraud": null,
+      "Tax implications": null
+    },
+    "future": {
+      "Potential to replace fiat currency": null,
+      "Potential to revolutionize the financial system": null,
+      "Potential to create a new economy": null
+    },
+    "comparison": {
+      "Cryptocurrencies to traditional payment methods": null,
+      "Cryptocurrencies to stocks": null,
+      "Cryptocurrencies to real estate": null
+    },
+    "potential": {
+      "Store of value": null,
+      "Medium of exchange": null,
+      "Unit of account": null
+    },
+    "risks": {
+      "Volatility": null,
+      "Security": null,
+      "Regulation": null,
+      "Fraud": null,
+      "Tax implications": null
+    },
+    "recommendations": {
+      "Do your research": null,
+      "Diversify your portfolio": null,
+      "Invest for the long term": null,
+      "Only invest what you can afford to lose": null,
+      "Be prepared to lose all of your investment": null
+    }
+  },
+  "things to consider before starting a podcast": {
+    "Choosing a topic": {
+      "Choose a topic that you're interested in and knowledgeable about.": null,
+      "Do your research to learn more about your target audience.": null,
+      "Talk to people in your target audience to get ideas for topics.": null,
+      "Experiment with different topics and formats to see what resonates with your audience.": null,
+      "Be authentic and create content that you're passionate about.": null
+    },
+    "Identifying your target audience": {
+      "Identify your target audience.": null,
+      "Research their interests.": null,
+      "Create content that is relevant to their interests.": null,
+      "Use a tone of voice that is appropriate for their age group.": null,
+      "Distribute your podcast on platforms that they are likely to use.": null
+    },
+    "Understanding your target audience": {
+      "Understand the needs and wants of your target audience.": null,
+      "Understand the challenges that your target audience is facing.": null,
+      "Ask questions to gain a deeper understanding of your target audience.": null,
+      "Create content that is more likely to appeal to your target audience.": null,
+      "Create content that is more likely to help your target audience.": null
+    },
+    "Choosing a podcast format": {
+      "Interview format": null,
+      "Panel discussion format": null,
+      "Solo format": null,
+      "Narrative format": null,
+      "Audio diary format": null
+    },
+    "Planning a podcast schedule": {
+      "Consider the frequency, length, time of day, days of the week, type of content, target audience, competition, budget, and availability.": null,
+      "Be flexible and patient.": null
+    },
+    "Challenges of podcasting": {
+      "Finding the time to produce a podcast.": null,
+      "Building an audience.": null,
+      "Staying motivated.": null
+    },
+    "Future of podcasting": {
+      "Podcasting is a convenient, personal, and diverse medium.": null,
+      "There are challenges with discoverability and monetization.": null,
+      "Podcasting is a great medium with a lot of potential for growth.": null
+    },
+    "Considering the type of podcast you are creating": {
+      "Consider the type of podcast you are creating.": null,
+      "Consider your budget.": null,
+      "Consider the features that are important to you.": null,
+      "Consider the quality of the sound that you want to achieve.": null,
+      "Invest in good quality equipment.": null
+    }
+  },
+  "things to consider before traveling to a foreign country": {
+    "visa": {
+      "Apply for a visa early.": null,
+      "Read the instructions carefully.": null,
+      "Double-check your work.": null,
+      "Be honest.": null,
+      "Be prepared for an interview.": null
+    },
+    "currency exchange": {
+      "Compare exchange rates before exchanging currency.": null,
+      "Look for a currency exchange bureau that offers no commission.": null,
+      "Exchange your currency at a bank.": null,
+      "Use a credit card that offers no foreign transaction fees.": null,
+      "Travel during the off-season to get better exchange rates.": null
+    },
+    "travel insurance": {
+      "Consider the traveler's health and medical history.": null,
+      "Read the fine print carefully.": null
+    },
+    "precautions": {
+      "Get vaccinated for diseases that are common in the country you are visiting.": null,
+      "Pack light.": null,
+      "Be aware of your surroundings.": null,
+      "Don't drink the tap water.": null,
+      "Have fun. Traveling is a great way to experience new cultures and meet new people.": null
+    },
+    "etiquette": {
+      "Dress appropriately.": null,
+      "Avoid certain gestures.": null,
+      "Be aware of religious and social customs.": null,
+      "Learn a few basic phrases in the local language.": null,
+      "Do some research on the local culture.": null
+    }
+  },
+  "things to consider before getting a credit card": {
+    "build-credit-history": {
+      "compare-interest-rates": null,
+      "read-the-fine-print": null,
+      "apply-for-a-card-that-you-are-likely-to-be-approved-for": null,
+      "use-your-credit-card-responsibly": null,
+      "pay-your-balance-in-full-each-month": null
+    },
+    "earn-rewards": {
+      "compare-interest-rates": null,
+      "calculate-the-interest-you-will-pay-on-your-credit-card-balance": null,
+      "determine-if-the-interest-rate-is-a-good-deal": null,
+      "make-more-than-the-minimum-payment-each-month": null,
+      "pay-off-your-balance-in-full-each-month": null
+    },
+    "use-credit-cards-responsibly": {
+      "weigh-the-benefits-of-a-credit-card-against-the-cost-of-the-annual-fee": null,
+      "consider-your-spending-habits": null,
+      "compare-the-benefits-of-different-cards": null,
+      "calculate-the-value-of-the-benefits": null,
+      "determine-if-you-can-afford-the-annual-fee": null
+    },
+    "compare-rewards-programs": {
+      "compare-different-types-of-rewards-programs": null,
+      "consider-your-spending-habits-and-goals": null,
+      "consider-the-fees-associated-with-a-credit-card": null,
+      "compare-the-value-of-different-rewards-programs": null,
+      "compare-the-flexibility-of-different-rewards-programs": null
+    },
+    "avoid-common-mistakes": {
+      "avoid-paying-interest-on-your-purchases-if-you-pay-your-balance-in-full-each-month": null,
+      "a-credit-card-can-help-you-build-your-credit-history": null,
+      "a-credit-card-can-provide-you-with-fraud-protection": null,
+      "if-you-carry-a-balance-over-from-month-to-month-you-will-be-charged-interest-on-that-balance": null,
+      "credit-cards-can-be-a-temptation-to-overspend": null
+    }
+  },
+  "things to consider before getting a tattoo": {
+    "Considerations": {
+      "Consider Visibility": null,
+      "Consider Meaning": null,
+      "Consider Lifestyle": null,
+      "Consider Personal Preferences": null,
+      "Research Employer Policies": null,
+      "Talk Partner or Spouse": null,
+      "Think Self-Image": null
+    },
+    "Choosing an Artist": {
+      "Choose Qualifications": null,
+      "Portfolios": {
+        "Do Research": null
+      },
+      "Studio": {
+        "Visit": null
+      },
+      "Communication": {
+        "Be Clear": null
+      },
+      "Pain": {
+        "Be Prepared": null
+      },
+      "Aftercare": {
+        "Take Care": null
+      },
+      "Respect": {
+        "Be Patient": null
+      }
+    },
+    "Pain": {
+      "Amount": {
+        "Consider": null
+      },
+      "Tolerance": {
+        "Evaluate": null
+      },
+      "Doctor": {
+        "Talk": null
+      },
+      "Others": {
+        "Talk": null
+      },
+      "Research": {
+        "Do": null
+      },
+      "Test": {
+        "Take": null
+      },
+      "Honesty": {
+        "Be": null
+      }
+    },
+    "Cost": {
+      "Variety": {
+        "Cost": null
+      },
+      "Aftercare": {
+        "Products": {
+          "Essential": null
+        }
+      },
+      "Touch-Ups": {
+        "Necessary": null
+      },
+      "Removal": {
+        "Costly": null,
+        "Time-Consuming": null
+      }
+    },
+    "Social Judgment": {
+      "Fear": null,
+      "Regret" : null
+    }
+  },
+  "things to consider before choosing a career": {
+    "Consider your interests, skills, values, and goals when choosing a career": {
+      "Consider your interests": {
+        "What are you passionate about?": null,
+        "What are you good at?": null,
+        "What are your values?": null,
+        "What are your goals?": null
+      },
+      "Consider your skills": {
+        "What are your hard skills?": null,
+        "What are your soft skills?": null
+      },
+      "Consider your values": {
+        "What is important to you?": null,
+        "What do you want to achieve in your life?": null
+      },
+      "Consider your goals": {
+        "What do you want to do with your life?": null,
+        "What kind of impact do you want to make?": null
+      }
+    },
+    "Do your research and explore your options": {
+      "Talk to people in different careers": null,
+      "Read books and articles about different careers": null,
+      "Take career assessments": null,
+      "Shadow someone in a different career": null
+    },
+    "Don't be afraid to change your mind": {
+      "It's okay to change your mind about what you want to do with your life": null,
+      "It's okay to take a different path": null,
+      "It's okay to make mistakes": null
+    },
+    "Be patient and keep exploring": {
+      "It takes time to find the right career for you": null,
+      "Don't give up": null,
+      "Keep exploring your options": null
+    },
+    "Find a career that is a good fit for you": {
+      "A career that is a good fit for you will be challenging and rewarding": null,
+      "A career that is a good fit for you will allow you to use your skills and talents": null,
+      "A career that is a good fit for you will be aligned with your values and goals": null
+    }
+  }
+}

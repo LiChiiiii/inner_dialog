@@ -1,0 +1,84 @@
+date: 2023.07.06
+setting: 3 round discussion, each have 3 rounds of qa.
+question: things to consider before staring a business.
+thoughts
+- supervisor should tell the subtopic and provide original question as the context.
+- 比較我做的筆記 (看完對話)，跟 supervisor 做的，我覺得品質差不多
+- Do I see the things I wanted to see? (probing more
+diverse angle of viewing a problem by asking question) - Yes!! It kind of worked.
+- Answer 回答很多打到細節，如果 supervisor 丟掉太浪費
+- supervisor 應該在一開始就把大局觀列出，先大略回答主問題，
+再把每一個回覆當作 discussion topic
+- asker 很喜歡叫 answerer 給例子，也許是因為我跟他說他是
+一個 interviewer (可以有兩個意思：訪問者、面試官)，感覺
+他把自己當面試官
+- 也許 integrate 是多餘的 (一個研究假設)，實際上只要把
+keypoints 貼到 notes 就好，不然反而犧牲很多資訊
+- business plan (第2輪 discussion) 的 keypoints 沒有被整合進 note
+- 這樣子來回問答的確可以幫助不知道怎麼問問題的使用者探尋更多切入點併發現新問題，並且有一個大局關，也許我該把對話紀錄保留並做成 tree-of-thought (裏面很多重點)
+- 對話轉 TOT，note 當作 final conclusion (只是一種簡潔的表達方式)，evalution 用對話
+
+discussion:
+- market research and analysis
+  - key steps involved in conducting effect market research and anslysis
+    - define research objectives
+    - determine research methodology
+    - develop a research plan
+    - collect datao
+    - analyze the data
+    - interpret the findings
+    - communicate the result
+    - take aciton
+  - provide an example of market research project you
+  have worked on
+    - provide example for each of the list
+  - share the challenges or obstacles encountered during data collection and analysis process and how
+  to overcome them
+    - low response rate
+    - interviewee availability
+    - data quality and reliability
+    - data analysis complexity
+    - interpretation and synthesis
+- business plan development
+  - key components to be included in a business plan
+    - executive summary
+    - company description
+    - market anlaysis
+    - products or services
+    - marketing and sales strategy
+    - orgaziational structure
+    - financial projection
+    - operation plan
+    - rist analysis
+    - implementation plan
+  - tips and best practices for developing a busisness plan
+    - give 3 tips for each of the components listed above
+  - give example of a successful business plan that
+  effectivly utilized the above components
+    - give airbnb as a example
+- Financial planning and funding
+  - key factors to consider when creating a financial plan and secure a funding
+    - clear business objectives
+    - thorough market research
+    - realisitc financial projection
+    - funding options
+    - financial management
+    - risk assessment and mitigation
+    - professional advice
+  - fundion options
+    - bank loans (pors and cons)
+    - vc
+    - angel investor
+    - crowdfunding
+    - government grant
+  - tips for increase the chance of securing fundings
+    - develop a good business plan
+    - build a strong management team
+    - demonstrate market potential
+    - showcase a unique value proposition
+    - have a clear financial plan
+    - build relationship and network
+    - prepare a pitch
+    - prepare for due diligence (legal process)
+    - seek professional advice
+    - be presistent and resilient

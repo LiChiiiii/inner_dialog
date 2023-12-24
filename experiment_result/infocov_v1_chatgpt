@@ -1,0 +1,141 @@
+'market research' 'market analysis' 0.8005251884460449
+'understand demand' 'market analysis' 0.48573389649391174
+'understand target audience' 'define target audience' 0.8876246213912964
+'understand competitors' 'studying competitors' 0.8509442806243896
+'understand trend' 'market analysis' 0.43685656785964966
+'business plan' 'make a business plan' 0.9207736253738403
+'objective' 'understand your motivation' 0.37843573093414307
+'strategies' 'marketing strategies' 0.680669367313385
+'target market' 'understand target customer' 0.6465595364570618
+'financial projection' 'assess financial situation' 0.6891400218009949
+'operation details' 'write product description' 0.31633222103118896
+'financial' 'assess financial situation' 0.6742324829101562
+'cost estimation' 'estimate cost' 0.9094709157943726
+'funding options' 'explore funding option' 0.8222172260284424
+'financial resources' 'assess financial situation' 0.6376859545707703
+'research legal requirement' 'lawyer' 0.36591020226478577
+'consult legal professional' 'lawyer' 0.4924505054950714
+'leagal structure' 'choose your business structure' 0.2996552884578705
+'tax' 'understand payment and tax' 0.7057771682739258
+'liability' 'lawyer' 0.4690488576889038
+'ownership implication' 'lawyer' 0.3154972493648529
+'product uniqueness' 'write product description' 0.5194580554962158
+'marketing strategies' 'marketing strategies' 1.0
+'market channel' 'market analysis' 0.6115719676017761
+'pricing' 'estimate cost' 0.5888418555259705
+'distribution' 'planing for distribution and reach of your business' 0.4785342216491699
+'sales tatics' 'brand building' 0.3668731451034546
+'infrastructure' 'identify support, materials, and sourcing options' 0.3724883794784546
+'equipment' 'identify support, materials, and sourcing options' 0.33959174156188965
+'technology' 'identify support, materials, and sourcing options' 0.31922876834869385
+'facililties' 'lawyer' 0.2483348399400711
+'human resources' 'consider employee and their roles' 0.49325865507125854
+'risk assessment' 'risk assessment for the industry' 0.7983944416046143
+'risk mitigation plan' 'risk assessment for the industry' 0.5683926343917847
+'personal readyness' 'take personality test to gain self-awareness' 0.37669703364372253
+'time' 'timing of the launch of the product' 0.369377464056015
+'effort' 'understand your motivation' 0.3972412943840027
+'dedication' 'practice perseverance' 0.41603922843933105
+
+
+-------------- hits --------------
+('market research', 'market analysis')
+('understand target audience', 'define target audience')
+('understand competitors', 'studying competitors')
+('business plan', 'make a business plan')
+('cost estimation', 'estimate cost')
+('funding options', 'explore funding option')
+('tax', 'understand payment and tax')
+('marketing strategies', 'marketing strategies')
+('risk assessment', 'risk assessment for the industry')
+
+
+-------------- misses --------------
+"understand demand"
+"understand trend"
+"objective"
+"strategies"
+"target market"
+"financial projection"
+"operation details"
+"financial"
+"financial resources"
+"research legal requirement"
+"consult legal professional"
+"leagal structure"
+"liability"
+"ownership implication"
+"product uniqueness"
+"market channel"
+"pricing"
+"distribution"
+"sales tatics"
+"infrastructure"
+"equipment"
+"technology"
+"facililties"
+"human resources"
+"risk mitigation plan"
+"personal readyness"
+"time"
+"effort"
+"dedication"
+
+
+-------------- loss --------------
+"assess financial situation"
+"reduce unnecessary spending"
+"determine minimum living cost"
+"plan your transition into business, fulltime, partime, commit"
+"understand yourself"
+"take personality test to gain self-awareness"
+"understand your motivation"
+"why you are the best person to start the business"
+"practice patient"
+"enjoy the journey"
+"practice perseverance"
+"have the right mindset"
+"work life balance"
+"setting personal limit"
+"seek support from friend and family"
+"hiring need"
+"lawyer"
+"consider employee and their roles"
+"accountantfinding partnership opportunity"
+"identify support, materials, and sourcing options"
+"find mentor to provide guidance"
+"find mentor to provide strategic advice"
+"find a mentor with experience"
+"find a mentor that can bring you networking opportunity"
+"find other founder to learn from their experience"
+"build connection with other founder"
+"seek potential collaboration with other founder"
+"build customer relationship"
+"suprise your customer by going the extra miles"
+"understand target customer"
+"know target customer's problem"
+"focus on the most prominant problem of the customer"
+"write product description"
+"record keeping system and financial management"
+"make a financial plan"
+"considering long term financial obligation"
+"cash flow forecast"
+"presales to validate business idea"
+"generating customer interest"
+"crowd funding to kickstart your business"
+"timing of the launch of the product"
+"brand building"
+"deciding the location of the business"
+"planing for distribution and reach of your business"
+"setting up account and identification number"
+"local regulation survey and complyment"
+"know your vision"
+"set stretch goal"
+"choose your business structure"
+"business model canvas"
+
+
+-------------- Summary --------------
+precision: 0.23684210526315788
+recall: 0.15254237288135594
+f1: 0.18556701030927836

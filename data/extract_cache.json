@@ -1,0 +1,736 @@
+{
+  "things to consider before traveling to a foreign country": {
+    "plan your trip": {
+      "research destination": {
+        "Learn about destination's history and customs": null,
+        "Research the local laws of the countries you plan to visit": {
+          "Check implications for dual nationals": null
+        },
+        "Learn basic phrases in local language": null
+      }
+    },
+    "check document": {
+      "Check passport expiry date": null,
+      "apply visa in advance": null,
+      "Check visa requirements": null,
+      "Get an international COVID-19 vaccination certificate": null,
+      "Check extra documents for traveling with children": null,
+      "make a copy": {
+        "Take photocopies of passport": null,
+        "Keep hard copies of flight tickets and hotel booking": null,
+        "insurance": null
+      },
+      "medical": {
+        "Pack essential medicines and supplies": null,
+        "Get yourself vaccinated": {
+          "Check vaccination requirements": null,
+          "Update vaccinations": null,
+          "Consider physical and mental health": null,
+          "See your doctor or travel clinic": null,
+          "Check medication legality and availability": null,
+          "prepare travel health kit": {
+            "Include your prescriptions and over-the-counter medicines": null,
+            "Pack a mask": null,
+            "Pack insect repellent": null,
+            "Pack sunscreen (SPF15 or higher)": null,
+            "Pack aloe": null,
+            "Pack alcohol-based hand sanitizer": null,
+            "Pack water disinfection tablets": null,
+            "Pack your health insurance card": null
+          }
+        }
+      },
+      "Stock up on currency": {
+        "Exchange currency at better rates": null,
+        "Carry international debit cards": null
+      },
+      "Pack appropriately": {
+        "Avoid carrying valuables": null,
+        "Keep valuables in hotel safe": null,
+        "Empty wallet of unnecessary items": null,
+        "Label bags with contact information": null,
+        "Pack extra pair of glasses": null
+      },
+      "safty": {
+        "Plan for if things go wrong": {
+          "Know what to do in a crisis": null,
+          "Keep a list of contacts for assistance": null,
+          "Read the Consular Service Charter": null,
+          "check in with someone regularly during your trip": null,
+          "Contact your local US embassy, consulate, or diplomatic mission": null,
+          "Let family members know they can contact the embassy or consulate for help": null
+        },
+        "buy travel insurance": {
+          "health insurance": null,
+          "baggage protection": null,
+          "Ensure overseas travel insurance covers medical conditions": null
+        },
+        "Share the following information about yourself or your trip with your provider": {
+          "Special conditions such as pregnancy, allergies, or chronic health problems": null,
+          "Destinations on your itinerary": null,
+          "Type of accommodations": {
+            "hotel": null,
+            "hostel": null,
+            "short term rentals": null
+          },
+          "type of travel": {
+            "cruise": null,
+            "business": null,
+            "advanture travel": null
+          },
+          "Timing and length of your trip": null,
+          "Planned activities": null
+        },
+        "tell people where you are going": {
+          "notify your bank": null,
+          "Share itinerary with friends or family members": null,
+          "Give trusted contact copies of important documents": null
+        }
+      }
+    }
+  },
+  "things to consider before starting a business": {
+    "Seeking Support": {
+      "Family and Friends": null,
+      "Mentorship": null,
+      "Networking": null
+    },
+    "Financial Considerations": {
+      "Assessing Risks": null,
+      "Minimizing Risks": null,
+      "Self-funding": null,
+      "Securing Financing": null
+    },
+    "Planning and Vision": {
+      "Creating a Business Plan": null,
+      "Developing a Vision": null,
+      "Setting Goals": null
+    },
+    "Understanding Customers": {
+      "Identifying Target Market": null,
+      "Understanding Customer Problems": null,
+      "Researching Buying Habits": null
+    },
+    "Self-awareness and Strengths": null,
+    "Product Development": {
+      "Validating Demand": null,
+      "Building a Minimum Viable Product": null
+    },
+    "Mentorship and Guidance": {
+      "Finding a Mentor": null,
+      "Seeking Expert Advice": null
+    },
+    "Networking and Learning": {
+      "Connecting with Other Founders": null,
+      "Utilizing Online Resources": null
+    },
+    "Mindset and Resilience": {
+      "Embracing Patience": null,
+      "Persevering Through Challenges": null,
+      "Maintaining a Positive Mindset": null
+    },
+    "Building Relationships": null,
+    "Messaging and Value Proposition": {
+      "Developing a Powerful Message": null,
+      "Creating a Unique Value Proposition": null
+    },
+    "Business Model and Strategy": {
+      "Choosing the Right Business Model": null,
+      "Developing a Strategic Plan": null
+    },
+    "Financial Management": {
+      "Understanding Numbers and Finances": null,
+      "Budgeting and Expense Management": null
+    },
+    "Legal Compliance": {
+      "Completing Documentation": null,
+      "Seeking Legal Counsel": null
+    },
+    "Equipment and Efficiency": {
+      "Investing in the Right Equipment": null,
+      "Improving Operational Efficiency": null
+    },
+    "Passion and Motivation": null,
+    "Support and Resources": {
+      "Utilizing Online Marketing Tools": null,
+      "Seeking Additional Support": null
+    },
+    "Standing Out and Attracting Customers": {
+      "Having a Great Business Idea": null,
+      "Differentiating from Competitors": null
+    },
+    "Market Research": {
+      "Understanding Target Market": null,
+      "Analyzing Competition": null
+    },
+    "Team Building": {
+      "Identifying Complementary Skills": null,
+      "Shared Vision and Goals": null
+    },
+    "Legal Structure and Compliance": {
+      "Choosing the Appropriate Legal Structure": null,
+      "Registering the Business": null,
+      "Obtaining Licenses and Tax Identification": null
+    },
+    "Location and Insurance": {
+      "Identifying Suitable Location": null,
+      "Obtaining Insurance Coverage": null
+    },
+    "Online Presence": {
+      "Establishing a Strong Online Presence": null,
+      "Utilizing Digital Marketing Strategies": null
+    },
+    "Utilizing Business Resources": {
+      "Local Business Resources": null,
+      "National Business Resources": null
+    },
+    "Marketing Strategy": {
+      "Developing a Strategic Marketing Plan": null
+    }
+  },
+  "things to consider before starting a podcast": {
+    "what is a podcast": {
+      "an audio series that a user can download to a personal device and listen at their leisure": null,
+      "It centers around one theme or topic": null,
+      "with each episode typically ranging from 20 to 60 minutes.": null,
+      "have a podcast host that guides the listener though the episode": null
+    },
+    "popular platform to listen to": {
+      "what": {
+        "apple podcast": null,
+        "spotify": null,
+        "google podcast": null
+      }
+    },
+    "how podcast work": {
+      "upload your audio file to your hosting platform": null,
+      "hosting platform crease an RSS feed and send it to various publisher": null
+    },
+    "popular hosting platform": {
+      "Casted": null,
+      "Buzzsprout": null,
+      "Captivate": null,
+      "Libsyn": null,
+      "PodBean": null
+    },
+    "what equipment is needed for a podcast?": {
+      "a microphone": {
+        "for beginer, use dynamic mic": {
+          "why": {
+            "dynamic mic is less sensitive to ambient noise": null
+          }
+        },
+        "go for condenser mic if you have a studio setup": {
+          "why": {
+            "condenser mic has a better quality": null
+          }
+        }
+      },
+      "an sound proof room": {
+        "why": {
+          "minize ambient nosise": null
+        }
+      },
+      "editing software": {
+        "what": {
+          "audacity": null,
+          "adobe audition": null,
+          "descript": null
+        }
+      },
+      "noise canceling headphones": {
+        "monitor and detect sound during the recording": null
+      },
+      "a hosting platform subscription": {
+        "why": {
+          "hosting platform store your audio files": null
+        }
+      }
+    },
+    "how to start a partcast": {
+      "find a unique and compelling topic/theme to cover": {
+        "start with an idea": null,
+        "your podcast should speak to a particular audience": null,
+        "things to ask yourself": {
+          "has to topic been covered in another podcast? if so, what is special about my episode?": null,
+          "is the idea relevant and timely?": null,
+          "is there an audience for this? if so, what type of listener will it attract?": null,
+          "is there enough content to create a season?": null
+        }
+      },
+      "set up your show format": {
+        "what": {
+          "interview": null,
+          "story telling": null
+        }
+      },
+      "leverage your network to find collaborators": {
+        "what": {
+          "cohost": null,
+          "high profile guest": null
+        },
+        "how": {
+          "reach out to intrest group, like facebook group": null
+        }
+      },
+      "record and edit your episode": {
+        "how": {
+          "do a dry run first": null,
+          "ask feedback from others so you can improve": null
+        }
+      },
+      "finalize your creative assets": {
+        "don't finalize your logo and name at the begining": {
+          "why": {
+            "your idea may evolved into something different than the original idea": null,
+            "you may have more inspiration after creating your first episode": null
+          }
+        }
+      },
+      "set up a website": {
+        "consider your website as your homebase for your podcast": null,
+        "why setting up a website?": {
+          "get you more listener as the trafic to your website grows": null
+        },
+        "things to be in your website": {
+          "show notes": null,
+          "transcripts": null,
+          "episode description": null
+        },
+        "follow SEO best practice to increase trafic": null
+      },
+      "build a promotion stragegy": {
+        "how": {
+          "do promotion in social media platform": null,
+          "start your promotion before your first episode is on air": {
+            "why": {
+              "build anticipation": null
+            }
+          },
+          "be consistent about promoting the episode after the show start": null,
+          "test variation of promotion method": null,
+          "once identify customer's response, stick with it": null,
+          "incentivize your listener to leave a review by hosting a give away": null
+        }
+      },
+      "monitoring your podcast's performance": {
+        "why should we monitor": {
+          "the data will provide you with insight into your listener and inform you with strategies for future episod": null
+        },
+        "what can we monitor": {
+          "subscription count": null,
+          "monthly episode download": null,
+          "unique page view to the podcast page": null,
+          "average listening time": null
+        }
+      },
+      "learn how to monitize your podcast": {
+        "what are the method to monitize the podcast": {
+          "sponsorship": {
+            "what are types of sponsorship?": {
+              "ads pre-roll": null,
+              "ads mid-roll": null
+            }
+          },
+          "affiliate marketing": {
+            "promoting a product or service in exchange for a commision on sales by providing a discount code": null
+          },
+          "pay membership": {
+            "what are some examples": {
+              "paytreon": null,
+              "stitcher premium": null
+            },
+            "provide membership content": {
+              "what are some examples": {
+                "extended interviews": null
+              }
+            }
+          },
+          "join podcast network": {
+            "what are the pros": {
+              "ads are being gather for you": null
+            },
+            "what are the cons": {
+              "you may not received full profits": null,
+              "you don't have full control over which ads are placed in your show": null
+            }
+          },
+          "monitize through YouTube": null
+        },
+        "how to get sponsors?": {
+          "activly seekout brands that are willing do the sponsor": null,
+          "create a pitch explaning the benefits of partner with you": null,
+          "proivde show metric in the pitch": null
+        }
+      }
+    }
+  },
+  "things to consider before getting a tattoo": {
+    "preparing for a tattoo": {
+      "have a clear idea of the imagery you want": null,
+      "consult with an artist for finer details": null,
+      "consider different tattooing styles": {
+        "American traditional": null,
+        "traditional Japanese": null,
+        "realism": null,
+        "illustrative": null,
+        "neo-traditional": null,
+        "minimalism or geometric": null
+      },
+      "consider skin tone when choosing colors": null,
+      "think about size and location": {
+        "outlines and shapes may fade or blur over time": null
+      },
+      "choose a licensed and hygienic tattoo shop or artist": null,
+      "communicate with the artist during the session": null,
+      "follow aftercare instructions": null
+    },
+    "pain and removal": {
+      "tattoos can be painful": {
+        "level of pain depends on factors such as pain tolerance, size, and location": null
+      },
+      "removal methods": {
+        "laser therapy": null,
+        "surgical excision": null,
+        "dermabrasion": null
+      }
+    },
+    "finding the right artist and design": {
+      "research different tattoo artists and styles": null,
+      "ensure safety and adherence to regulations": null,
+      "avoid haggling over price and tip the artist": null,
+      "be prepared mentally and physically": null,
+      "follow aftercare instructions and consider touch-ups": null
+    },
+    "appointment and process": {
+      "pick an artist you trust": null,
+      "make an appointment with specific details": null,
+      "prepare for the appointment": null,
+      "arrive on time and follow COVID guidelines": null,
+      "finalize design and placement": null,
+      "sit for the tattoo and communicate discomfort": null,
+      "settle bill and tip the artist": null,
+      "follow aftercare instructions": null
+    }
+  },
+  "things to consider before getting a credit card": {
+    "what are the factors to consider when choosing a credit card": {
+      "interest rates": null,
+      "fees": null,
+      "rewards": null,
+      "penalties and fees": null,
+      "number of credit cards": null,
+      "store credit cards": null
+    },
+    "how to build credit with credit cards": {
+      "use responsibly": null,
+      "make payments on time": null,
+      "keep low credit utilization": null
+    },
+    "important terms to know": {
+      "annual fee": null,
+      "APR": null,
+      "credit limit": null,
+      "interest charges": null,
+      "late fee": null,
+      "minimum payment": null,
+      "payment due date": null,
+      "statement": null
+    },
+    "how to choose a first credit card": {
+      "consider interest rates and fees": null,
+      "shop around and compare options": null,
+      "secured credit cards": null,
+      "recommended credit cards for beginners": {
+        "Capital One Platinum Secured Credit Card": null,
+        "Citi Secured Mastercard": null,
+        "Petal 2 Visa Credit Card": null,
+        "Deserve Digital First Card": null
+      },
+      "maintain first credit card for credit history": null
+    }
+  },
+  "things to consider before investing in cryptocurrency": {
+    "considerations before investing in cryptocurrency": {
+      "motivation and investment goals": null,
+      "secure private keys": null,
+      "understand cryptocurrency industry and different currencies": null,
+      "consider security and convenience of wallets": {
+        "hot wallets": null,
+        "cold wallets": null
+      },
+      "read white papers of cryptocurrency projects": null,
+      "perform test transactions": null,
+      "patience in volatile market": null
+    },
+    "cryptocurrency basics": {
+      "digital or virtual currency secured by cryptography": null,
+      "based on blockchain technology": null
+    },
+    "risks and concerns in cryptocurrency investment": {
+      "highly risky and speculative endeavor": null,
+      "thorough research necessary": null,
+      "concerns and uncertainties": null,
+      "trustless approach and avoiding scams": null,
+      "unit bias should be avoided": null,
+      "choosing the right wallet": null,
+      "taxation and regulatory concerns": null,
+      "risk management and strategic planning": null
+    },
+    "investment strategies and tips": {
+      "understand buying, selling, and exchanging cryptocurrencies": null,
+      "diversify portfolio": null,
+      "conduct thorough research on projects": null,
+      "compare roadmap with developer activity": null,
+      "avoid impulsive investments driven by emotions": null,
+      "only invest what you can afford to lose": null,
+      "keep a long-term perspective": null
+    },
+    "characteristics and risks of cryptocurrencies": {
+      "decentralized and not controlled by any government entity": null,
+      "speculative in nature with uncertain long-term survival": null,
+      "highly volatile and can experience significant price fluctuations": null,
+      "risk of cyber attacks on exchanges": null,
+      "capital gains tax on cryptocurrency investments": null
+    }
+  },
+  "things to consider before buying a car": {
+    "factors to consider when buying a car": {
+      "practicality": null,
+      "budget": {
+        "consider options like used cars": null
+      },
+      "electric vehicles": {
+        "lower running costs": null,
+        "constantly improving battery power and range": null
+      },
+      "operating costs": {
+        "fuel efficiency": null,
+        "maintenance and repair costs": null,
+        "taxes": null,
+        "insurance": null
+      },
+      "durability": null,
+      "resale value": null,
+      "car's history": null,
+      "test drive": null
+    },
+    "determine your budget before buying a new car": {
+      "consider additional costs like RTO, insurance, and handling charges": null
+    },
+    "choose the fuel type based on your usage": {
+      "diesel becoming less popular": null,
+      "electric cars offering long-term savings": null
+    },
+    "consider the body type of the car": {
+      "hatchbacks for easy parking": null,
+      "sedans for more space and luxury": null,
+      "SUVs for off-roading and urban use": null
+    },
+    "focus on the power (Bhp) of the engine": {
+      "consider turbocharging for better performance and fuel efficiency": null
+    },
+    "decide between manual and automatic transmission": {
+      "based on budget, inter-city travel, and preference for a comfortable ride": null
+    },
+    "check the safety rating of the car before buying": null,
+    "consider the ownership cost": {
+      "including maintenance expenses": null,
+      "as the value of the car depreciates over time": null
+    },
+    "think about the resale value of the car": {
+      "as it can vary depending on the manufacturer": null
+    },
+    "look for necessary creature comforts and features in the car": {
+      "considering the top-end variant for additional bells and whistles": null
+    },
+    "get preapproved for a car loan before visiting a dealership": {
+      "to determine how much car you can afford": null,
+      "and avoid being charged higher interest rates": null
+    },
+    "keep negotiations simple at the dealership": {
+      "by focusing on the price of the vehicle first": null,
+      "and not revealing information about trade-ins or financing plans": null
+    },
+    "avoid buying add-ons at the dealership": {
+      "such as extended warranties and gap insurance": null,
+      "consider purchasing them later or through a regular insurance company": null
+    },
+    "beware of longer-term car loans": {
+      "as they result in lower monthly payments but higher interest rates": null,
+      "and can leave you owing more than the car is worth if you decide to sell it": null
+    },
+    "don't buy more car than you can afford": {
+      "consider buying a used car to save money": {
+        "as the reliability of used cars has improved": null,
+        "and there are many options available": null
+      }
+    },
+    "consider your budget and whether a car loan is necessary": null,
+    "decide between buying a brand new or second-hand car": {
+      "considering factors such as warranty, depreciation, and reliability": null
+    },
+    "determine what type of car suits your needs": {
+      "considering factors such as body type, transmission, and extras": null
+    },
+    "take into account the cost of upkeep": {
+      "including maintenance and insurance": null
+    },
+    "consider getting a safety inspection for a second-hand car": null,
+    "be aware of additional expenses": {
+      "such as stamp duty, registration, and roadside assistance membership": null
+    }
+  },
+  "things to consider before choosing a career": {
+    "factors to consider when choosing a career": {
+      "passions and interests": null,
+      "desired salary": null,
+      "education requirements": null,
+      "work/life balance": null,
+      "travel requirements": null,
+      "opportunities for growth and development": null,
+      "job market outlook": null
+    },
+    "personal factors to consider": {
+      "do what makes you happy": null,
+      "be open to trying new things": null,
+      "it's okay if you don't do what you went to college for": null
+    },
+    "how to decide on a career": {
+      "consider key factors and answer important questions": null
+    },
+    "why you may struggle with choosing a career": {
+      "lack of clear personal and career goals": null
+    },
+    "related articles": {
+      "the best jobs for moms with no degree": null,
+      "networking tips to boost your career": null,
+      "what a 5-figure salary gets you": null,
+      "how to avoid making rash decisions in your career": null
+    },
+    "consider your interests and passions": null,
+    "take into account your skills and qualifications": null,
+    "your personality type can guide you towards suitable careers": null,
+    "consider your preferences and lifestyle": null,
+    "research the job market and future prospects": null,
+    "consider the earning potential of different careers": null,
+    "it's never too late to change careers and retrain": null,
+    "evaluate your personality traits": null,
+    "determine your career goals": null,
+    "identify your values": null,
+    "explore different career options": null,
+    "research potential salary ranges": null,
+    "consider job prospects and outlooks": null,
+    "understand educational requirements and costs": null,
+    "seek guidance from counselors and professionals": null,
+    "take advantage of learning opportunities and networking": null,
+    "interests": {
+      "consider your passions and what topics you enjoy learning about": null
+    },
+    "transferable skills": {
+      "assess how your current skills can be applied to a new job": null
+    },
+    "lifestyle preferences": {
+      "determine what kind of lifestyle you want and find a career that aligns with it": null
+    },
+    "values and beliefs": {
+      "choose a career that aligns with your personal values": null
+    },
+    "personality fit": {
+      "find a career that suits your personality type": null
+    },
+    "education": {
+      "consider your educational background when choosing a career": null
+    },
+    "salary expectations": {
+      "ensure the career you choose offers a satisfactory salary": null
+    },
+    "job outlook": {
+      "evaluate the demand and growth potential of the career": null
+    }
+  },
+  "things to consider before having a baby": {
+    "parenting": {
+      "raising a child": {
+        "requires nonstop care and attention": null
+      },
+      "partner or family support": {
+        "makes parenting easier": null,
+        "tests relationships": null
+      },
+      "communication": {
+        "important consideration": null
+      },
+      "financial responsibility": {
+        "important consideration": null
+      },
+      "shared childcare": {
+        "important consideration": null
+      },
+      "single parenting": {
+        "advantages": null,
+        "challenges": null
+      },
+      "support from friends and family": {
+        "important consideration": null
+      },
+      "childcare arrangements": {
+        "important consideration": null
+      }
+    },
+    "preconception care": {
+      "focus on preparing for pregnancy": {
+        "increase chances of having a healthy baby": null
+      },
+      "make a plan and take action": null,
+      "see doctor before getting pregnant": {
+        "discuss health history, medical conditions, medications, vaccinations": null
+      },
+      "take folic acid daily": {
+        "prevent birth defects": null
+      },
+      "avoid alcohol, smoking, certain drugs": {
+        "avoid pregnancy complications, birth defects": null
+      },
+      "avoid toxic substances, environmental contaminants": {
+        "harm reproductive health": null
+      },
+      "reach and maintain a healthy weight": {
+        "reduce risk of complications": null
+      },
+      "learn family history": {
+        "identify potential factors affecting baby's health": null
+      },
+      "take care of mental health": {
+        "seek help if needed": null
+      },
+      "collect family's health history": {
+        "help with genetic counseling if necessary": null
+      },
+      "take daily supplement of folic acid": {
+        "reduce risk of neural tube defects": null
+      },
+      "stop smoking": {
+        "avoid health problems for mother and baby": null
+      },
+      "avoid alcohol during pregnancy": {
+        "prevent harm to the baby": null
+      },
+      "maintain a healthy weight": {
+        "improve fertility, reduce pregnancy complications": null
+      },
+      "be cautious about taking medications during pregnancy": {
+        "consult a doctor": null
+      },
+      "check vaccination history": {
+        "consider getting vaccinated before pregnancy": null
+      },
+      "discuss pregnancy plans with a doctor": {
+        "if have long-term condition or mental health condition": null
+      },
+      "consider testing for sickle cell disease and thalassaemia": {
+        "before starting a family": null
+      }
+    }
+  }
+}

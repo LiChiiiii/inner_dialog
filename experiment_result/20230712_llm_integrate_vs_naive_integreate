@@ -1,0 +1,43 @@
+------------- llm integrate: use llm to integrate keypoints with existing note -----------
+- Conducting effective market research and analysis involves several key steps:
+  - Define the research objectives
+  - Determine the research methodology
+  - Develop a research plan
+  - Collect data
+  - Analyze the data
+  - Interpret the findings
+  - Draw conclusions and make recommendations
+  - Communicate the findings
+  - Monitor and evaluate
+
+- Executive Summary: Provides an overview of the business plan.
+- Company Description: Details the company's mission, vision, values, and legal structure.
+- Market Analysis: Analyzes the target market, competition, and customer demographics.
+- Products or Services: Describes the features, benefits, and unique selling points of the offerings.
+- Marketing and Sales Strategy: Outlines the approach for reaching the target market.
+- Organizational Structure: Provides an overview of key personnel and strategic partnerships.
+- Financial Projections: Includes income statements, balance sheets, and cash flow statements.
+- Funding Request: Outlines the amount, purpose, and repayment plan for funding.
+- Risk Assessment: Identifies potential risks and strategies to mitigate them.
+- Implementation Plan: Outlines the steps and timeline for implementing the plan.
+- Appendices: Includes supporting documents such as resumes and market research data.
+
+------------------ naive integrate: append keypoints to note -----------
+- Define research objectives
+- Determine research methodology
+- Identify target market
+- Collect data (primary and secondary research)
+- Analyze data
+- Interpret findings
+- Make recommendations
+- Implement and monitor
+- Executive Summary: Provides an overview of the business plan.
+- Company Description: Details the company's mission, vision, values, and legal structure.
+- Market Analysis: Analyzes the target market, including size, growth potential, competition, and customer demographics.
+- Products or Services: Describes the offerings and competitive advantages.
+- Marketing and Sales Strategy: Outlines the approach, including target market, pricing, distribution, and promotion.
+- Organizational Structure: Provides an overview of key personnel and roles.
+- Financial Projections: Includes income statements, balance sheets, and cash flow statements.
+- Funding Request: Outlines the amount, purpose, and repayment plan for external funding.
+- Risk Analysis: Identifies potential risks and strategies to mitigate them.
+- Implementation Plan: Outlines steps, timeline, milestones, and performance indicators.

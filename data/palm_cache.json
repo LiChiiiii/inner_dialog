@@ -1,0 +1,332 @@
+{
+  "things to consider before having a baby": {
+    "financial_situation": {
+      "prenatal_care": null,
+      "childbirth": null,
+      "childcare": null,
+      "food": null,
+      "clothing": null,
+      "education": null
+    },
+    "career": {
+      "taking_time_off": null,
+      "working_part_time": null,
+      "finding_a_job_that_allows_you_to_work_from_home": null
+    },
+    "relationship": {
+      "being_on_the_same_page": null,
+      "being_prepared_for_the_changes_that_parenthood_will_bring": null
+    },
+    "living_situation": {
+      "having_enough_space": null,
+      "having_a_safe_and_comfortable_place_for_the_baby_to_sleep": null,
+      "having_a_car_that's_big_enough_to_fit_a_car_seat": null
+    },
+    "support_system": {
+      "having_a_strong_support_system_in_place": null,
+      "having_people_you_can_rely_on_for_help_and_support": null
+    },
+    "mental_health": {
+      "being_aware_of_the_risks_of_postpartum_depression_and_anxiety": null,
+      "seeking_help_if_you_need_it": null
+    },
+    "physical_health": {
+      "eating_a_healthy_diet": null,
+      "getting_regular_exercise": null,
+      "managing_any_chronic_health_conditions": null
+    }
+  },
+  "things to consider before starting a business": {
+    "do_your_research": {
+      "understand_the_market": {
+        "target_audience": null,
+        "competition": null,
+        "industry_landscape": null
+      },
+      "conduct_market_research": null,
+      "talk_to_potential_customers": null,
+      "analyze_industry_data": null
+    },
+    "create_a_business_plan": {
+      "goals": null,
+      "strategies": null,
+      "how_to_achieve_them": null
+    },
+    "get_funding": {
+      "loan": null,
+      "investors": null,
+      "crowdfunding": null
+    },
+    "build_a_team": {
+      "talented_and_dedicated_people": null,
+      "consider_your_skills_and_weaknesses": null,
+      "find_people_who_can_complement_your_abilities": null
+    },
+    "market_your_business": {
+      "online_marketing": null,
+      "offline_marketing": null,
+      "public_relations": null
+    },
+    "manage_your_finances": {
+      "tracking_your_income_and_expenses": null,
+      "paying_your_bills_on_time": null,
+      "filing_your_taxes": null,
+      "have_a_good_understanding_of_accounting_and_bookkeeping": null,
+      "hire_someone_who_does": null
+    },
+    "stay_organized": {
+      "keeping_track_of_your_tasks": null,
+      "deadlines": null,
+      "contacts": null,
+      "project_management_software": null,
+      "to-do_lists": null,
+      "calendars": null
+    }
+  },
+  "things to consider before choosing a career": {
+    "interests": {
+      "what are you interested in": null,
+      "what do you enjoy doing": null,
+      "what are you good at": null
+    },
+    "skills": {
+      "what are you good at": null,
+      "what skills do you have": null
+    },
+    "values": {
+      "what is important to you": null,
+      "what do you want to achieve in your life": null
+    },
+    "job market": {
+      "what are the job prospects in the field you're interested in": null,
+      "is there a demand for workers in that field": null
+    },
+    "salary": {
+      "how much money do you want to make": null
+    },
+    "work environment": {
+      "what kind of work environment do you want to work in": null,
+      "do you want to work indoors or outdoors": null,
+      "do you want to work alone or with others": null
+    },
+    "future of the field": {
+      "is the field you're interested in growing or shrinking": null,
+      "is the field in demand": null
+    }
+  },
+  "things to consider before buying a car": {
+    "budget": {
+      "income": null,
+      "other_financial_obligations": null,
+      "savings": null
+    },
+    "needs_and_wants": {
+      "can_seat_a_large_family": null,
+      "fuel_efficient_for_commuting": null,
+      "all_the_latest_features": null,
+      "basic_model": null
+    },
+    "type_of_car": {
+      "sedan": null,
+      "coupe": null,
+      "suv": null,
+      "truck": null
+    },
+    "fuel_economy": null,
+    "safety_rating": null,
+    "reliability": null,
+    "warranty": null
+  },
+  "things to consider before traveling to a foreign country": {
+    "visas": {
+      "requirements": null,
+      "passport": null,
+      "health certificate": null
+    },
+    "currency exchange": null,
+    "travel insurance": null,
+    "immunizations": null,
+    "safety": {
+      "crime rate": null,
+      "walking alone at night": null,
+      "being aware of surroundings": null
+    },
+    "culture": {
+      "local customs and traditions": null,
+      "avoiding doing anything that could be considered offensive": null
+    },
+    "language": null
+  },
+  "things to consider before getting a credit card": {
+    "credit_score": {
+      "Your credit score is a number that lenders use to assess your creditworthiness. It is based on your credit history, which includes your payment history, the amount of debt you have, and the length of your credit history. A higher credit score indicates that you are a lower-risk borrower and will be more likely to qualify for a credit card with good terms.": null
+    },
+    "income": {
+      "Lenders will want to see that you have enough income to afford the monthly payments on your credit card. They will also want to see that you have a stable job and a history of making on-time payments.": null
+    },
+    "expenses": {
+      "Before you apply for a credit card, take a close look at your monthly expenses. Make sure that you can afford to make the monthly payments on your credit card, even if you have other bills to pay.": null
+    },
+    "interest_rate": {
+      "The interest rate on your credit card is the amount of interest you will pay on your balance each month. The interest rate is determined by your credit score and other factors. A lower interest rate will save you money in the long run.": null
+    },
+    "annual_fee": {
+      "Some credit cards have an annual fee, which is a fee that you pay to the credit card company each year. The annual fee can range from a few dollars to a few hundred dollars. If you are considering a credit card with an annual fee, make sure that the benefits of the card outweigh the cost of the annual fee.": null
+    },
+    "rewards_program": {
+      "Many credit cards offer rewards programs that give you points or cash back on your purchases. The rewards can be redeemed for travel, gift cards, or other items. When choosing a credit card, consider the rewards program and whether it will be valuable to you.": null
+    },
+    "features_and_benefits": {
+      "Some credit cards offer features and benefits such as travel insurance, purchase protection, and extended warranties. These features can be valuable, so make sure to compare the features and benefits of different credit cards before you apply.": null
+    }
+  },
+  "things to consider before getting a tattoo": {
+    "design": {
+      "meaning": null,
+      "placement": null,
+      "clothing": null,
+      "other tattoos": null
+    },
+    "artist": {
+      "style": null,
+      "experience": null,
+      "meeting": null
+    },
+    "cost": {
+      "size": null,
+      "design": null,
+      "artist": null
+    },
+    "pain": {
+      "tolerance": null,
+      "location": null,
+      "management": null
+    },
+    "healing": {
+      "instructions": null,
+      "infection": null
+    },
+    "sun": {
+      "protection": null,
+      "fading": null,
+      "color": null
+    },
+    "regret": {
+      "possibility": null,
+      "permanence": null,
+      "certainty": null
+    }
+  },
+  "things to consider before getting a dog": {
+    "lifestyle": {
+      "time": {
+        "walk": null,
+        "feed": null,
+        "play": null
+      },
+      "energy": {
+        "busy": null
+      }
+    },
+    "budget": {
+      "food": null,
+      "toys": null,
+      "bed": null,
+      "vet": {
+        "annual": null,
+        "vaccinations": null,
+        "illnesses": null,
+        "injuries": null
+      }
+    },
+    "living situation": {
+      "space": null,
+      "apartment": null
+    },
+    "family": {
+      "members": null,
+      "children": {
+        "age": null,
+        "interaction": null
+      }
+    },
+    "allergies": {
+      "dog": null
+    },
+    "commitment": {
+      "long term": null
+    },
+    "breed choice": {
+      "breeds": null,
+      "personality": null,
+      "needs": null
+    }
+  },
+  "things to consider before investing in cryptocurrency": {
+    "things_to_consider": {
+      "do_your_research": {
+        "technology": null,
+        "fraud_and_scams": null,
+        "price_volatility": null
+      },
+      "invest_only_what_you_can_afford_to_lose": null,
+      "diversify_your_portfolio": null,
+      "use_a_reputable_exchange": null,
+      "store_your_cryptocurrencies_safely": null,
+      "keep_up_with_the_news": null,
+      "be_patient": null
+    },
+    "additional_things_to_consider": {
+      "type_of_cryptocurrency": null,
+      "exchange_rate": null,
+      "fees": null,
+      "tax_implications": null,
+      "regulatory_environment": null
+    }
+  },
+  "things to consider before starting a podcast": {
+    "Choose a topic": null,
+    "Narrow down your topic to a specific focus": null,
+    "Do your research": {
+      "Read books and articles": null,
+      "Watch videos": null,
+      "Talk to experts on the subject": null
+    },
+    "Create a plan": {
+      "Decide on the format of your podcast": null,
+      "Decide on the length of each episode": null,
+      "Decide on the frequency of your releases": null,
+      "Come up with a list of topics that you want to cover": null
+    },
+    "Record your podcast": {
+      "Record at home or in a professional studio": null,
+      "Invest in a good microphone and some recording software": null
+    },
+    "Edit your podcast": {
+      "Remove any mistakes": null,
+      "Add music and sound effects": null,
+      "Create a professional-sounding podcast": null
+    },
+    "Publish your podcast": {
+      "Publish on a number of platforms": {
+        "iTunes": null,
+        "Spotify": null,
+        "Stitcher": null
+      }
+    },
+    "Promote your podcast": {
+      "Share it on social media": null,
+      "Write blog posts about it": null,
+      "Reach out to other podcasters": null
+    },
+    "Be yourself": null,
+    "Be consistent": {
+      "Release new episodes on a regular schedule": null
+    },
+    "Interact with your listeners": {
+      "Respond to their comments and questions": null,
+      "Let them know that you appreciate their support": null
+    },
+    "Have fun": null
+  }
+}

@@ -1,0 +1,137 @@
+-------------- hits --------------
+('Key factors to consider when creating a financial plan and securing funding for a business', 'make a financial plan', 0.714965)
+('Thorough market research', 'market analysis', 0.7345195)
+('Funding options', 'explore funding option', 0.8222172)
+('Risk assessment and mitigation', 'risk assessment for the industry', 0.7267049)
+('Funding options and their advantages and disadvantages', 'explore funding option', 0.73150337)
+('Develop a compelling business plan', 'make a business plan', 0.8806082)
+('Demonstrate market potential', 'market analysis', 0.712116)
+('Have a clear financial plan', 'make a financial plan', 0.8755308)
+
+
+-------------- misses --------------
+# threshold too high
+"('Be persistent and resilient', 'practice perseverance', 0.441651)"
+"('Professional advice', 'find mentor to provide strategic advice', 0.44702017)"
+"('Data analysis complexity', 'market analysis', 0.32931292)"
+"('Clear business objectives', 'make a business plan', 0.5086251)"
+"('Realistic financial projections', 'assess financial situation', 0.6167606)"
+"('Financial management', 'assess financial situation', 0.6854798)"
+
+# subset threshold too high - market analysis
+"('Analyzing the data', 'market analysis', 0.5161052)"
+"('Interpreting the findings', 'market analysis', 0.27856123)"
+"('An example of a market research project:', 'market analysis', 0.61594814)"
+"('Data analysis software', 'market analysis', 0.31646836)"
+
+# subset score too low - funding option
+"('Bank loans: lower interest rates, collateral and credit history required', 'make a financial plan', 0.3876016)"
+"('Angel investors: industry experience and mentorship, loss of ownership and control', 'seek potential collaboration with other founder', 0.4304243)"
+"('Crowdfunding: market validation, time-consuming and no guarantee of reaching funding goal', 'crowd funding to kickstart your business', 0.6886612)"
+"('Government grants: no repayment required, strict eligibility criteria and competitive application process', 'explore funding option', 0.37301907)"
+
+# method score too low - market analysis
+"('Data quality and reliability', 'record keeping system and financial management', 0.33107933)"
+"('Conducting effective market research involves:', 'marketing strategies', 0.58944654)"
+"('Defining research objectives', 'marketing strategies', 0.3346659)"
+"('Determining the methodology', 'focus on the most prominant problem of the customer', 0.38327295)"
+"('Developing a research plan', 'make a business plan', 0.53927934)"
+"('Collecting data', 'generating customer interest', 0.37985253)"
+"('Communicating the results', 'write product description', 0.36631018)"
+"('Taking action', 'lawyer', 0.30336618)"
+"('Understanding consumer preferences and trends in the fitness industry', 'marketing strategies', 0.3943223)"
+"('Challenges encountered during the research process:', 'focus on the most prominant problem of the customer', 0.40396506)"
+"('Low response rates', 'focus on the most prominant problem of the customer', 0.21338326)"
+"('Interviewee availability', 'hiring need', 0.57047075)"
+"('Interpretation and synthesis', 'write product description', 0.34566638)"
+
+# not touched - cover come challenges in marketing research
+"('Strategies used to overcome these challenges', 'practice perseverance', 0.4655086)"
+"('Offering incentives', 'crowd funding to kickstart your business', 0.46749324)"
+"('Flexible scheduling', 'reduce unnecessary spending', 0.30332842)"
+"('Attention-check questions', 'take personality test to gain self-awareness', 0.23848376)"
+"('Team-based analysis', 'studying competitors', 0.39272782)"
+"('Seeking feedback from stakeholders', 'identify support, materials, and sourcing options', 0.40355867)"
+
+# not touched - securing fund
+"('Tips and strategies to improve chances of securing funding', 'explore funding option', 0.6008533)"
+"('Build a strong management team', 'find mentor to provide strategic advice', 0.41823816)"
+"('Showcase a unique value proposition', 'write product description', 0.39636835)"
+"('Build relationships and network', 'build customer relationship', 0.6112483)"
+"('Prepare a compelling pitch', 'have the right mindset', 0.30953336)"
+"('Be prepared for due diligence', 'practice perseverance', 0.41768506)"
+"('seek professional advice', 'seek support from friend and family', 0.50067484)"
+
+
+-------------- loss --------------
+# financial related but personal
+"assess financial situation"
+"reduce unnecessary spending"
+"determine minimum living cost"
+"plan your transition into business, fulltime, partime, commit"
+"record keeping system and financial management"
+"understand payment and tax"
+"estimate cost"
+"considering long term financial obligation"
+"cash flow forecast"
+
+# business plan
+"presales to validate business idea"
+"generating customer interest"
+"crowd funding to kickstart your business"
+"business model canvas"
+"choose your business structure"
+
+# funding
+
+# Related
+"practice perseverance"
+
+# Outside topics
+"timing of the launch of the product"
+"brand building"
+"marketing strategies"
+"deciding the location of the business"
+"planing for distribution and reach of your business"
+"setting up account and identification number"
+"local regulation survey and complyment"
+"know your vision"
+"set stretch goal"
+"understand yourself"
+"take personality test to gain self-awareness"
+"understand your motivation"
+"why you are the best person to start the business"
+"practice patient"
+"enjoy the journey"
+"have the right mindset"
+"work life balance"
+"setting personal limit"
+"seek support from friend and family"
+"hiring need"
+"lawyer"
+"consider employee and their roles"
+"accountantfinding partnership opportunity"
+"identify support, materials, and sourcing options"
+"find mentor to provide guidance"
+"find mentor to provide strategic advice"
+"find a mentor with experience"
+"find a mentor that can bring you networking opportunity"
+"find other founder to learn from their experience"
+"build connection with other founder"
+"seek potential collaboration with other founder"
+"build customer relationship"
+"suprise your customer by going the extra miles"
+"define target audience"
+"understand target customer"
+"know target customer's problem"
+"focus on the most prominant problem of the customer"
+"studying competitors"
+"write product description"
+
+
+
+-------------- Summary --------------
+precision: 0.16326530612244897
+recall: 0.12903225806451613
+f1: 0.14414414414414414
+

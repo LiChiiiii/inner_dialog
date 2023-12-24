@@ -1,0 +1,129 @@
+
+-------------- hits --------------
+('Market research', 'Market Research', 1.0)
+('Demand', 'Validating Demand', 0.7486539)
+('Competition', 'Analyzing Competition', 0.7640029)
+('Business plan', 'Creating a Business Plan', 0.86741096)
+('Goals', 'Setting Goals', 0.74650544)
+('Marketing plans', 'Developing a Strategic Marketing Plan', 0.80611277)
+('Funding options', 'Self-funding', 0.71011645)
+('Insurance', 'Location and Insurance', 0.7369348)
+('Proximity to target market', 'Understanding Target Market', 0.7940415)
+('Competition', 'Analyzing Competition', 0.7640029)
+('Marketing and branding', 'Marketing Strategy', 0.70463866)
+('Marketing strategy', 'Marketing Strategy', 1.0)
+('Risk assessment', 'Assessing Risks', 0.8794249)
+('Potential risks', 'Assessing Risks', 0.7802777)
+('Build a network and seek mentorship', 'Finding a Mentor', 0.7832366)
+('Ensure passion and motivation', 'Passion and Motivation', 0.9144546)
+('Evaluate the role of technology and establish a strong online presence', 'Establishing a Strong Online Presence', 0.82394904)
+
+
+-------------- misses --------------
+"('Factors to consider before starting a business', 'Choosing the Right Business Model', 0.5383129)"
+"('Target audience', 'Understanding Target Market', 0.5993324)"
+"('Strategies', 'Marketing Strategy', 0.6365467)"
+"('Financial projections', 'Financial Considerations', 0.62674373)"
+"('Financial resources', 'Financial Management', 0.66735923)"
+"('Capital needed', 'Financial Management', 0.40960258)"
+"('Legal requirements', 'Legal Compliance', 0.63612247)"
+"('Licenses', 'Obtaining Licenses and Tax Identification', 0.67779785)"
+"('Permits', 'Legal Compliance', 0.49563146)"
+"('Taxes', 'Obtaining Licenses and Tax Identification', 0.4248614)"
+"('Business structure', 'Business Model and Strategy', 0.61804587)"
+"('Legal and tax structure', 'Choosing the Appropriate Legal Structure', 0.6880472)"
+"('Location', 'Identifying Suitable Location', 0.688259)"
+"('Accessibility', 'Online Presence', 0.35371724)"
+"('Cost', 'Financial Considerations', 0.3356958)"
+"('Brand identity', 'Standing Out and Attracting Customers', 0.39381483)"
+"('Operations and logistics', 'Equipment and Efficiency', 0.51317203)"
+"('Suppliers', 'Product Development', 0.467924)"
+"('Inventory', 'Investing in the Right Equipment', 0.4423944)"
+"('Employees', 'Team Building', 0.4098329)"
+"('Processes', 'Product Development', 0.3869236)"
+"('Contingency plans', 'Developing a Strategic Plan', 0.5255214)"
+"('Personal commitment', 'Passion and Motivation', 0.5300361)"
+"('Additional considerations', 'Financial Considerations', 0.5794661)"
+"('Evaluate industry expertise and knowledge', 'Seeking Expert Advice', 0.45700797)"
+"('Assess scalability and growth potential', 'Building a Minimum Viable Product', 0.3718906)"
+"('Consider time commitment', 'Embracing Patience', 0.43315807)"
+"('Establish a support system', 'Support and Resources', 0.6618544)"
+"('Plan for an exit strategy', 'Developing a Strategic Plan', 0.544967)"
+"('Other important aspects', 'Support and Resources', 0.39077324)"
+"('Identify competitive advantage and unique selling proposition (USP)', 'Differentiating from Competitors', 0.5697717)"
+"('Develop a pricing strategy aligned with target market and competition', 'Understanding Target Market', 0.6815278)"
+"('Seek customer feedback and conduct market validation', 'Understanding Customers', 0.6310238)"
+"('Incorporate sustainability and social responsibility initiatives', 'Self-funding', 0.3017011)"
+"('Assess the need for intellectual property protection', 'Legal Structure and Compliance', 0.35922337)"
+"('Stay updated on industry trends and be adaptable', 'Investing in the Right Equipment', 0.42285293)"
+"('Prioritize work-life balance', 'Minimizing Risks', 0.34363863)"
+
+
+-------------- loss --------------
+"Seeking Support"
+"Family and Friends"
+"Mentorship"
+"Networking"
+"Financial Considerations"
+"Minimizing Risks"
+"Securing Financing"
+"Planning and Vision"
+"Developing a Vision"
+"Understanding Customers"
+"Identifying Target Market"
+"Understanding Customer Problems"
+"Researching Buying Habits"
+"Self-awareness and Strengths"
+"Product Development"
+"Building a Minimum Viable Product"
+"Mentorship and Guidance"
+"Seeking Expert Advice"
+"Networking and Learning"
+"Connecting with Other Founders"
+"Utilizing Online Resources"
+"Mindset and Resilience"
+"Embracing Patience"
+"Persevering Through Challenges"
+"Maintaining a Positive Mindset"
+"Building Relationships"
+"Messaging and Value Proposition"
+"Developing a Powerful Message"
+"Creating a Unique Value Proposition"
+"Business Model and Strategy"
+"Choosing the Right Business Model"
+"Developing a Strategic Plan"
+"Financial Management"
+"Understanding Numbers and Finances"
+"Budgeting and Expense Management"
+"Legal Compliance"
+"Completing Documentation"
+"Seeking Legal Counsel"
+"Equipment and Efficiency"
+"Investing in the Right Equipment"
+"Improving Operational Efficiency"
+"Support and Resources"
+"Utilizing Online Marketing Tools"
+"Seeking Additional Support"
+"Standing Out and Attracting Customers"
+"Having a Great Business Idea"
+"Differentiating from Competitors"
+"Team Building"
+"Identifying Complementary Skills"
+"Shared Vision and Goals"
+"Legal Structure and Compliance"
+"Choosing the Appropriate Legal Structure"
+"Registering the Business"
+"Obtaining Licenses and Tax Identification"
+"Identifying Suitable Location"
+"Obtaining Insurance Coverage"
+"Online Presence"
+"Utilizing Digital Marketing Strategies"
+"Utilizing Business Resources"
+"Local Business Resources"
+"National Business Resources"
+
+
+-------------- Summary --------------
+precision: 0.3148148148148148
+recall: 0.21794871794871795
+f1: 0.25757575757575757

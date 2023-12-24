@@ -1,0 +1,29 @@
+version: "3"
+
+services:
+  backend:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+      args:
+        - FRONTEND_URL=http://${IP}
+    ports:
+      - "3211:80"
+    # volumes:
+    #   - ./:/app
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: ./Dockerfile
+      args:
+        # Set the public IP and port for backend.
+        # because we are accessing from the user's browser.
+        - VITE_API_URL=http://${IP}:3211
+    ports:
+      - "3210:80"
+    # volumes:
+    #  - ./src/frontend/public:/home/node/app/public
+    #  - ./src/frontend/src:/home/node/app/src
+    #  - ./src/frontend/package.json:/home/node/app/package.json
+    # restart: on-failure

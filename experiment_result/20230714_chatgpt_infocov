@@ -1,0 +1,87 @@
+-------------- hits --------------
+('Travel Preparation', 'type of travel', 0.7404808)
+('Research the destination', 'research destination', 0.85659087)
+('Get vaccinated', 'Get yourself vaccinated', 0.90019333)
+('Plan your itinerary', 'plan your trip', 0.76399356)
+('Pack appropriately', 'Pack appropriately', 0.99999994)
+('Notify your bank and credit card companies', 'notify your bank', 0.86896145)
+('Purchase travel insurance', 'buy travel insurance', 0.9724952)
+('Learn basic phrases', 'Learn basic phrases in local language', 0.8131731)
+
+
+-------------- misses --------------
+"('Check travel advisories', 'check in with someone regularly during your trip', 0.6652023)"
+"('Obtain necessary travel documents', 'Check extra documents for traveling with children', 0.635245)"
+"('Stay connected', 'check in with someone regularly during your trip', 0.27913386)"
+
+
+-------------- loss --------------
+"Learn about destination's history and customs"
+"Research the local laws of the countries you plan to visit"
+"Check implications for dual nationals"
+"check document"
+"Check passport expiry date"
+"apply visa in advance"
+"Check visa requirements"
+"Get an international COVID-19 vaccination certificate"
+"Check extra documents for traveling with children"
+"make a copy"
+"Take photocopies of passport"
+"Keep hard copies of flight tickets and hotel booking"
+"insurance"
+"medical"
+"Pack essential medicines and supplies"
+"Check vaccination requirements"
+"Update vaccinations"
+"Consider physical and mental health"
+"See your doctor or travel clinic"
+"Check medication legality and availability"
+"prepare travel health kit"
+"Include your prescriptions and over-the-counter medicines"
+"Pack a mask"
+"Pack insect repellent"
+"Pack sunscreen (SPF15 or higher)"
+"Pack aloe"
+"Pack alcohol-based hand sanitizer"
+"Pack water disinfection tablets"
+"Pack your health insurance card"
+"Stock up on currency"
+"Exchange currency at better rates"
+"Carry international debit cards"
+"Avoid carrying valuables"
+"Keep valuables in hotel safe"
+"Empty wallet of unnecessary items"
+"Label bags with contact information"
+"Pack extra pair of glasses"
+"safty"
+"Plan for if things go wrong"
+"Know what to do in a crisis"
+"Keep a list of contacts for assistance"
+"Read the Consular Service Charter"
+"check in with someone regularly during your trip"
+"Contact your local US embassy, consulate, or diplomatic mission"
+"Let family members know they can contact the embassy or consulate for help"
+"health insurance"
+"baggage protection"
+"Ensure overseas travel insurance covers medical conditions"
+"Share the following information about yourself or your trip with your provider"
+"Special conditions such as pregnancy, allergies, or chronic health problems"
+"Destinations on your itinerary"
+"Type of accommodations"
+"hotel"
+"hostel"
+"short term rentals"
+"cruise"
+"business"
+"advanture travel"
+"Timing and length of your trip"
+"Planned activities"
+"tell people where you are going"
+"Share itinerary with friends or family members"
+"Give trusted contact copies of important documents"
+
+
+-------------- Summary --------------
+precision: 0.7272727272727273
+recall: 0.11267605633802817
+f1: 0.1951219512195122
