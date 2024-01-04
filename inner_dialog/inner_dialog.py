@@ -6,10 +6,9 @@ import openai
 import google.generativeai
 import logging
 from typing import List
-from langchain.chat_models import ChatOpenAI
-from langchain.chat_models import ChatGooglePalm
-from langchain.prompts.chat import HumanMessagePromptTemplate
-from langchain.schema import (
+from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_core.prompts.chat import HumanMessagePromptTemplate
+from langchain_core.messages import (
     AIMessage,
     HumanMessage,
     SystemMessage,
@@ -17,7 +16,7 @@ from langchain.schema import (
 )
 import os, json, re 
 from dotenv import load_dotenv
-from inner_dialog.utils import article2hiercc_palm
+from inner_dialog.gemini import article2hiercc_gemini
 
 
 load_dotenv()
@@ -36,7 +35,7 @@ logging.basicConfig(
 
 
 class Agent:
-    def __init__(self, model: ChatGooglePalm, system_message: str) -> None:
+    def __init__(self, model: ChatGoogleGenerativeAI, system_message: str) -> None:
         self.model = model
         self.system_message = system_message
         self.init_messages()
@@ -111,7 +110,7 @@ class Supervisor(Agent):
     def __init__(
         self,
         question: str,
-        model: ChatGooglePalm,
+        model: ChatGoogleGenerativeAI,
         system_message: SystemMessage,
         num_subtopics: int = 10,
     ):
@@ -286,7 +285,7 @@ def t2cb_ask_inner_dialog(question: str) -> str:
             In addition, restrict to choose 1 critical questions to drive deeper discussions.
             """
         ),
-        model=ChatGooglePalm(temperature=0.2),
+        model=ChatGoogleGenerativeAI(temperature=0.2, model="gemini-pro", convert_system_message_to_human=True),
     )
     answerer = Answerer(
         system_message=SystemMessage(
@@ -294,7 +293,7 @@ def t2cb_ask_inner_dialog(question: str) -> str:
             You give short but concise reply (only Verb+Object pairs) to each question.
             """,
         ),
-        model=ChatGooglePalm(temperature=0.2),
+        model=ChatGoogleGenerativeAI(temperature=0.2, model="gemini-pro", convert_system_message_to_human=True),
     )
     supervisor = Supervisor(
         question=question,
@@ -306,7 +305,7 @@ def t2cb_ask_inner_dialog(question: str) -> str:
             and integrate the key points taken out in all rounds and also present them in the form of bullet points. 
             """,
         ),
-        model=ChatGooglePalm(temperature=0.2),
+        model=ChatGoogleGenerativeAI(temperature=0.2, model="gemini-pro", convert_system_message_to_human=True),
     )
 
     # Reset
@@ -352,7 +351,7 @@ if __name__ == "__main__":
     # # question = "things to consider before traveling to a foreign country"
     question = "things to consider before starting a podcast"
     article = t2cb_ask_inner_dialog(question=question)
-    hierr = article2hiercc_palm(article)
+    hierr = article2hiercc_gemini(article, question=question)
     logging.info(f"article2hierr: \n{json.dumps(hierr, indent=2)}")
     with open("inner_dialog_output", "w") as f:
         f.write(article)

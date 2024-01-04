@@ -67,7 +67,7 @@ def run_model(question: str, model: Model, use_cache: bool, force_write_cache: b
         if model == Model.INNER_DIALOG:
             article = t2cb_ask_inner_dialog(question=question)
             print(article)  # debug
-            pred_dict = article2hiercc_palm(article=article)
+            pred_dict = article2hiercc_gemini(article=article, question=question)
             print(pred_dict)  # debug
         elif model == Model.GEMINI:
             article = t2cb_ask_gemini(question=question)
