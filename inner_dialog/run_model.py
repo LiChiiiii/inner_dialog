@@ -1,5 +1,6 @@
 from inner_dialog.chatgpt import t2cb_ask_chatgpt
 from inner_dialog.palm import t2cb_ask_palm
+from inner_dialog.gemini import t2cb_ask_gemini, article2hiercc_gemini
 from inner_dialog.hier_info_struct import hier_info_struct
 from inner_dialog.inner_dialog import t2cb_ask_inner_dialog
 from inner_dialog.model import Model
@@ -15,6 +16,8 @@ def cache_result(
     """Cache prediction dict if it has a cache miss."""
     if model == Model.INNER_DIALOG:
         file = "data/inner_dialog_cache.json"
+    elif model == Model.GEMINI:
+        file = "data/gemini_cache.json"
     elif model == Model.PALM:
         file = "data/palm_cache.json"
     elif model == Model.CHATGPT:
@@ -47,6 +50,8 @@ def run_model(question: str, model: Model, use_cache: bool, force_write_cache: b
     if use_cache:
         if model == Model.INNER_DIALOG:
             file = "data/inner_dialog_cache.json"
+        elif model == Model.GEMINI:
+            file = "data/gemini_cache.json"
         elif model == Model.PALM:
             file = "data/palm_cache.json"
         elif model == Model.CHATGPT:
@@ -63,6 +68,11 @@ def run_model(question: str, model: Model, use_cache: bool, force_write_cache: b
             article = t2cb_ask_inner_dialog(question=question)
             print(article)  # debug
             pred_dict = article2hiercc_palm(article=article)
+            print(pred_dict)  # debug
+        elif model == Model.GEMINI:
+            article = t2cb_ask_gemini(question=question)
+            print(article)  # debug
+            pred_dict = article2hiercc_gemini(article=article, question=question)
             print(pred_dict)  # debug
         elif model == Model.PALM:
             article = t2cb_ask_palm(question=question)

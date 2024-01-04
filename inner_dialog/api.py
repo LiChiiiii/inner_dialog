@@ -47,4 +47,5 @@ def gen_mindmap(
         force_write_cache=foce_write_cache,
     )
     output_dict = {question: output_content}
+
     return output_dict

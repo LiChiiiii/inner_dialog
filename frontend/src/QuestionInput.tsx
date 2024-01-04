@@ -95,14 +95,14 @@ function QuestionInput() {
         <input
           id="bordered-radio-2"
           type="radio"
-          value="palm"
-          checked={formData.model === "palm"}
+          value="gemini"
+          checked={formData.model === "gemini"}
           onChange={handleRadioChange}
           name="bordered-radio"
           className="radio-input"
         />
         <label htmlFor="bordered-radio-2" className="radio-label">
-          PALM
+          Gemini
         </label>
       </div>
       <div className="model-select-container">
