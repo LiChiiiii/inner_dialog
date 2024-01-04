@@ -139,11 +139,13 @@ $ npm run preview
     - 執行這個檔案會產生 `inner_dialog_output` (模型對於開放式問題的最終答案) 以及 `inner_dialog.log` (紀錄每次問答的內容)
   - [experiment.py](./inner_dialog/experiment.py): 執行實驗的程式
   - [chatgpt.py](./inner_dialog/chatgpt.py): ChatGPT baseline
+  - [gemini.py](./inner_dialog/gemini.py): Gemini baseline
 - [frontend](./frontend/): demo 網站，進入點 [App.tsx](./frontend/src/App.tsx)
 - [data](./data/): 存放資料集、ChatGPT 快取 (省錢)
   - [t2cb.json](./data/t2cb.json): T2CB 資料集
   - [inner_dialog_cache.json](./data/inner_dialog_cache.json): Inner dialog cache，如果之前已經有問過的問題就會從這抓取，速度比較快，也可以省錢
   - [chatgpt_cache.json](./data/chatgpt_cache.json): ChatGPT cache，如果之前已經有問過的問題就會從這抓取，速度比較快，也可以省錢
+  - [gemini_cache.json](./data/gemini_cache.json): Gemini cache
 - [experiment_result](./experiment_result/): 實驗結果歷史紀錄，為 [experiment.py](./inner_dialog/experiment.py) 的輸出，如果之後還有做其他實驗可以存放在這裡(記得上時間戳)
 - [logs](./logs/): 實驗結果的詳細 log 存放處，大多為 [inner_dialog.py](./inner_dialog/inner_dialog.py) 的輸出
 - [tests](./tests/): 測試檔，測試檔名有做 mapping (e.g., `inner_dialog/utils.py` 對應的測試檔為 `tests/test_utils.py`)
