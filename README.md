@@ -1,7 +1,7 @@
 # Inner Dialog
 
 ![img](./img/screenshot.png)
-- [Demo 網站](http://140.116.245.152:3210/) 架設在 **152 的 3210 port**
+- [Demo 網站](http://140.116.245.152:3210/) 
 - 測試問句
     - things to consider before starting a business
     - things to consider before choosing a career
@@ -11,25 +11,27 @@
     - things to consider before getting a credit card
 - Model 選項說明
     - `inner_dialog`: 本論文系統
-    - `chatgpt`: ChatGPT 5-round baseline
+    - `gemini`: Gemini-Pro 3-round baseline
+    - `chatgpt`: ChatGPT 3-round baseline
     - `extract`: Google Search 前 5 篇人類文章人工整理生成心智圖
 
 
 ## API 
-架設在 **152 的 3211 port** ([API 測試](http://140.116.245.152:3211/docs))
+IP=localhost (Replace `localhost` with product server IP)
 
 - 呼叫方式
 
 ```shell
 curl -X 'GET' \
-  'http://140.116.245.152:3211/gen_mindmap/?question=things%20to%20consider%20before%20choosing%20a%20career&model=inner_dialog&token=xxx&use_cache=true&foce_write_cache=false' \
+  'http://{IP}/gen_mindmap/?question=things%20to%20consider%20before%20choosing%20a%20career&model=inner_dialog&token=xxx&use_cache=true&foce_write_cache=false' \
   -H 'accept: application/json'
 ```
 - 參數說明
     - question (`string`): 輸入的開放式問句
     - model (`string`): 使用模型
         - `inner_dialog`: 本論文系統
-        - `chatgpt`: ChatGPT 5-round baseline
+        - `gemini`: Gemini-Pro 3-round baseline
+        - `chatgpt`: ChatGPT 3-round baseline
         - `extract`: Google Search 前 5 篇人類文章人工整理生成心智圖
     - use_cache (`bool`): 是否使用 cache 資料 (速度較快)
     - force_write_cache (`boool`): 是否複寫 cache 資料 (當你想更新 cache 時請設為 `true`)
@@ -44,7 +46,7 @@ import json
 def test_api():
     question = "things to consider before choosing a career"
     model = "inner_dialog"
-    api_url = "http://140.116.245.152:3211/gen_mindmap/"
+    api_url = "http://{IP}/gen_mindmap/"
     res = requests.get(
         api_url,
         params={
